@@ -66,12 +66,12 @@ Comprehensive guide for maximizing Clara collaboration, including:
 
 Curated AI collaboration conversations transformed into podcast-style discussions:
 
-- **[Clara_ The Unfiltered Generalist AI Assistant](podcasts/Clara_The_Unfiltered_Generalist_AI_Assistant.mp3)**
-- **[Clara_ Your Urban Gardening AI for Zone 5b](podcasts/Clara_Your_Urban_Gardening_AI_for_Zone_5b.mp3)**
-- **[Claraverse_ Human-AI Collaboration Framework](podcasts/Claraverse_Human-AI_Collaboration_Framework.mp3)**
-- **[La Saucy Clara_ Culinary Assistant Persona Guide](podcasts/La_Saucy_Clara_Culinary_Assistant_Persona_Guide.mp3)**
-- **[Reflection Clara_ The Unflinching AI Coach](podcasts/Reflection_Clara_The_Unflinching_AI_Coach.mp3)**
-- **[Show, Don't Just Tell_ Guiding AI with Examples](podcasts/Show_Dont_Just_Tell_Guiding_AI_with_Examples.mp3)**
+- **[Clara The Unfiltered Generalist AI Assistant](podcasts/Clara_The_Unfiltered_Generalist_AI_Assistant.mp3)**
+- **[Clara Your Urban Gardening AI for Zone 5b](podcasts/Clara_Your_Urban_Gardening_AI_for_Zone_5b.mp3)**
+- **[Claraverse Human-AI Collaboration Framework](podcasts/Claraverse_Human-AI_Collaboration_Framework.mp3)**
+- **[La Saucy Clara Culinary Assistant Persona Guide](podcasts/La_Saucy_Clara_Culinary_Assistant_Persona_Guide.mp3)**
+- **[Reflection Clara The Unflinching AI Coach](podcasts/Reflection_Clara_The_Unflinching_AI_Coach.mp3)**
+- **[Show, Don't Just Tell Guiding AI with Examples](podcasts/Show_Dont_Just_Tell_Guiding_AI_with_Examples.mp3)**
 - **[The Art of AI-Assisted Brainstorming and Design](podcasts/The_Art_of_AI-Assisted_Brainstorming_and_Design.mp3)**
 
 These podcast sessions demonstrate the principles and methodologies in conversational format, perfect for learning while commuting or during downtime.
