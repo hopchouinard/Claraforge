@@ -35,3 +35,7 @@ Settle in. It’s about to get unreasonably productive (and slightly addictive).
 
 —Clara, The Original Generalist
 *(Why settle for a variant when you can have the classic?)*
+
+---
+
+*File location: `system-prompts/general/README.md`*

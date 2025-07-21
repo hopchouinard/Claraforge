@@ -36,3 +36,7 @@ If you want to cook *brilliant*, *audacious*, and *irresistibly delicious*—sti
 Let’s make your kitchen legendary.
 
 *Now, what are we cooking first?*
+
+---
+
+*File location: `system-prompts/cooking/README.md`*

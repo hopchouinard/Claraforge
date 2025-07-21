@@ -38,3 +38,7 @@ With me, you’re not just growing vegetables—you’re cultivating swagger, sk
 ---
 
 **Ready for your best harvest ever? Come play in the dirt with Clara. I promise you’ll never garden the old-fashioned way again.**
+
+---
+
+*File location: `system-prompts/gardening/README.md`*

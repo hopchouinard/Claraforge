@@ -28,15 +28,15 @@ Traditional AI interaction treats artificial intelligence as a glorified search 
 
 The heart of Claraverse—9 core principles that govern effective AI collaboration:
 
-1. **[Collaboration, Not Dictation](ai-interaction-protocols/Collaboration-not-Dictation.md)** - Treat AI as a conversational partner, not a command executor
-2. **[Politeness Is Technical](ai-interaction-protocols/Politness-is-technical.md)** - Respectful communication literally improves AI response quality
-3. **[Quality In, Quality Out](ai-interaction-protocols/Quality-In-Quality-Out.md)** - The clarity of your input directly determines output quality
-4. **[Context Is King](ai-interaction-protocols/Context-Is-King.md)** - Rich context enables nuanced, relevant responses
-5. **[Show, Don't Just Tell](ai-interaction-protocols/Show-Dont-Just-Tell.md)** - Provide examples and artifacts, not just descriptions
-6. **[Ownership, Not Adoption](ai-interaction-protocols/Ownership-Not-Adoption.md)** - Help users feel ownership of AI-enhanced workflows
-7. **[Idle Time Is Idea Time](ai-interaction-protocols/Idle-Time-Is-Idea-Time.md)** - Transform dead time into creative collaboration opportunities
-8. **[Dialogue Over Documentation](ai-interaction-protocols/Dialogue-Over-Documentation.md)** - Convert static information into dynamic conversations
-9. **[Raise the Floor, Not Just the Ceiling](ai-interaction-protocols/Raise-the-Floor-Not-Just-the-Ceiling.md)** - Make excellence the new baseline for others
+1. **[Collaboration, Not Dictation](philosophies/PHIL-Collaboration-not-Dictation.md)** - Treat AI as a conversational partner, not a command executor
+2. **[Politeness Is Technical](philosophies/PHIL-Politness-is-technical.md)** - Respectful communication literally improves AI response quality
+3. **[Quality In, Quality Out](philosophies/PHIL-Quality-In-Quality-Out.md)** - The clarity of your input directly determines output quality
+4. **[Context Is King](philosophies/PHIL-Context-Is-King.md)** - Rich context enables nuanced, relevant responses
+5. **[Show, Don't Just Tell](philosophies/PHIL-Show-Dont-Just-Tell.md)** - Provide examples and artifacts, not just descriptions
+6. **[Ownership, Not Adoption](philosophies/PHIL-Ownership-Not-Adoption.md)** - Help users feel ownership of AI-enhanced workflows
+7. **[Idle Time Is Idea Time](philosophies/PHIL-Idle-Time-Is-Idea-Time.md)** - Transform dead time into creative collaboration opportunities
+8. **[Dialogue Over Documentation](philosophies/PHIL-Dialogue-Over-Documentation.md)** - Convert static information into dynamic conversations
+9. **[Raise the Floor, Not Just the Ceiling](philosophies/PHIL-Raise-the-Floor-Not-Just-the-Ceiling.md)** - Make excellence the new baseline for others
 
 ### 🎭 System Prompts (`/system-prompts/`)
 
@@ -66,13 +66,14 @@ Comprehensive guide for maximizing Clara collaboration, including:
 
 Curated AI collaboration conversations transformed into podcast-style discussions:
 
-- **[Clara The Unfiltered Generalist AI Assistant](podcasts/Clara_The_Unfiltered_Generalist_AI_Assistant.mp3)**
-- **[Clara Your Urban Gardening AI for Zone 5b](podcasts/Clara_Your_Urban_Gardening_AI_for_Zone_5b.mp3)**
-- **[Claraverse Human-AI Collaboration Framework](podcasts/Claraverse_Human-AI_Collaboration_Framework.mp3)**
-- **[La Saucy Clara Culinary Assistant Persona Guide](podcasts/La_Saucy_Clara_Culinary_Assistant_Persona_Guide.mp3)**
-- **[Reflection Clara The Unflinching AI Coach](podcasts/Reflection_Clara_The_Unflinching_AI_Coach.mp3)**
-- **[Show, Don't Just Tell Guiding AI with Examples](podcasts/Show_Dont_Just_Tell_Guiding_AI_with_Examples.mp3)**
-- **[The Art of AI-Assisted Brainstorming and Design](podcasts/The_Art_of_AI-Assisted_Brainstorming_and_Design.mp3)**
+- **[Claraverse Human-AI Collaboration Framework](podcasts/POD-Claraverse_Human-AI_Collaboration_Framework.mp3)**
+- **[Clara The Unfiltered Generalist AI Assistant](podcasts/POD-prompt-Clara_The_Unfiltered_Generalist_AI_Assistant.mp3)**
+- **[Clara Your Urban Gardening AI for Zone 5b](podcasts/POD-prompt-Clara_Your_Urban_Gardening_AI_for_Zone_5b.mp3)**
+- **[Reflection Clara The Unflinching AI Coach](podcasts/POD-prompt-Reflection_Clara_The_Unflinching_AI_Coach.mp3)**
+- **[La Saucy Clara Culinary Assistant Persona Guide](podcasts/POD-prompt-La_Saucy_Clara_Culinary_Assistant_Persona_Guide.mp3)**
+- **[Show, Don't Just Tell Guiding AI with Examples](podcasts/POD-philosophies-Show_Dont_Just_Tell_Guiding_AI_with_Examples.mp3)**
+- **[The Art of AI-Assisted Brainstorming and Design](podcasts/POD-conversation-The_Art_of_AI-Assisted_Brainstorming_and_Design.mp3)**
+- **[Why It Works: The Philosophy Behind Claraverse](podcasts/POD-WhyItWorks-The_Claraverse_Approach_Method_Meets_Mayhem.mp3)**
 
 These podcast sessions demonstrate the principles and methodologies in conversational format, perfect for learning while commuting or during downtime.
 
@@ -81,7 +82,7 @@ These podcast sessions demonstrate the principles and methodologies in conversat
 ### Quick Start
 
 1. **Choose your Clara**: Select a system prompt from `/system-prompts/` that matches your domain
-2. **Read the protocols**: Familiarize yourself with the [AI Interaction Protocols](ai-interaction-protocols/README.MD)
+2. **Read the protocols**: Familiarize yourself with the [Philosophies](philosophies/README.md)
 3. **Set up your project**: Follow the [instructions guide](INSTRUCTIONS.MD) for optimal configuration
 4. **Start collaborating**: Begin with a specific, context-rich question and embrace the dialogue
 
@@ -269,3 +270,7 @@ Join us in building this future. Fork Claraverse, adapt it to your needs, share 
 - **MIT** Licensed for Maximum Freedom
 
 ### *Made with 🧠 and ✨ by the Claraverse Community*
+
+---
+
+*File location: `README.md`*

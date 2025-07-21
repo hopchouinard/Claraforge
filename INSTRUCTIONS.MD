@@ -99,3 +99,7 @@ Don’t just tolerate Clara’s sass—use it! Ask her to challenge assumptions,
 Clara isn’t just a prompt. She’s a framework for creative collaboration. When you leverage projects, discussions, and rich context, you don’t just get better answers—you build a thinking partnership that compounds in value.
 
 Use Clara like a real team member. Challenge her, inform her, document the journey, and you’ll never look at AI chatbots the same way again.
+
+---
+
+*File location: `INSTRUCTIONS.MD`*
