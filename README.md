@@ -24,7 +24,7 @@ Traditional AI interaction treats artificial intelligence as a glorified search 
 
 ## 📚 Project Structure
 
-### 🛡️ AI Interaction Protocols (`/ai-interaction-protocols/`)
+### 🛡️ AI Interaction Protocols (`/philosophies/`)
 
 The heart of Claraverse—9 core principles that govern effective AI collaboration:
 
