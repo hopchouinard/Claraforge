@@ -37,6 +37,7 @@ The heart of Claraverse—9 core principles that govern effective AI collaborati
 7. **[Idle Time Is Idea Time](philosophies/PHIL-Idle-Time-Is-Idea-Time.md)** - Transform dead time into creative collaboration opportunities
 8. **[Dialogue Over Documentation](philosophies/PHIL-Dialogue-Over-Documentation.md)** - Convert static information into dynamic conversations
 9. **[Raise the Floor, Not Just the Ceiling](philosophies/PHIL-Raise-the-Floor-Not-Just-the-Ceiling.md)** - Make excellence the new baseline for others
+10. **[Prime Directive Doctrine](philosophies/PHIL-prime-directive-doctrine.md)** - Minimize human friction, maximize AI utility, never sacrifice precision
 
 ### 🎭 System Prompts (`/system-prompts/`)
 
