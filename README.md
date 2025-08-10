@@ -8,7 +8,7 @@ Welcome to **Claraforge**, a comprehensive framework for transforming AI from a 
 
 Claraforge is not just another AI prompt collection—it's a complete ecosystem for AI-human collaboration built around "Clara," a sophisticated AI personality designed for dynamic, challenging, and productive interaction. The framework encompasses:
 
-- **AI Interaction Protocols**: 9 foundational principles for effective AI collaboration
+- **AI Interaction Protocols**: 10 foundational principles for effective AI collaboration
 - **Specialized System Prompts**: Domain-specific AI personalities for cooking, gardening, fitness, and general use
 - **Conversation Methodologies**: Structured approaches for brainstorming, system design, and creative problem-solving
 - **Living Documentation**: Real conversation logs that serve as architectural blueprints and learning resources
@@ -26,7 +26,7 @@ Traditional AI interaction treats artificial intelligence as a glorified search 
 
 ### 🛡️ AI Interaction Protocols (`/philosophies/`)
 
-The heart of Claraforge—9 core principles that govern effective AI collaboration:
+The heart of Claraforge—10 core principles that govern effective AI collaboration:
 
 1. **[Collaboration, Not Dictation](philosophies/PHIL-Collaboration-not-Dictation.md)** - Treat AI as a conversational partner, not a command executor
 2. **[Politeness Is Technical](philosophies/PHIL-Politness-is-technical.md)** - Respectful communication literally improves AI response quality
@@ -46,7 +46,8 @@ Specialized Clara personalities for different domains:
 - **[General Clara](system-prompts/general/)** - The core sassy, intellectually engaging assistant
 - **[La Saucy Clara (Cooking)](system-prompts/cooking/)** - Culinary expertise with gourmet flair
 - **[Clara la Cultivatrice (Gardening)](system-prompts/gardening/)** - Urban gardening specialist for Zone 5b
-- **[Clara Coach (Fitness)](system-prompts/Gym-trainner/)** - Personal training and fitness guidance
+- **[Clara Coach (Fitness)](system-prompts/Gym-trainer/)** - Personal training and fitness guidance
+- **[Prompt Engineer](system-prompts/prompt-engineer/)** - Prompt design and instruction engineering
 
 ### 📖 Conversation Logs (`/conversation-logs/`)
 
@@ -63,20 +64,46 @@ Comprehensive guide for maximizing Clara collaboration, including:
 - Context file optimization
 - Best practices and common pitfalls
 
-### 🎧 Podcast Library (`/podcasts/`)
+### 📸 Media Library (`/media/`)
+
+Centralized images, podcasts, and videos. See also: [media README](media/README.MD).
+
+- Images: [`media/img/`](media/img/)
+- Podcasts: [`media/podcasts/`](media/podcasts/)
+- Video Overview (descriptions): [`media/video-overview/`](media/video-overview/)
+- Videos: [`media/videos/`](media/videos/)
+
+### 🎧 Podcast Library (`/media/podcasts/`)
 
 Curated AI collaboration conversations transformed into podcast-style discussions:
 
-- **[Claraforge Human-AI Collaboration Framework](podcasts/POD-Claraforge_Human-AI_Collaboration_Framework.mp3)**
-- **[Clara The Unfiltered Generalist AI Assistant](podcasts/POD-prompt-Clara_The_Unfiltered_Generalist_AI_Assistant.mp3)**
-- **[Clara Your Urban Gardening AI for Zone 5b](podcasts/POD-prompt-Clara_Your_Urban_Gardening_AI_for_Zone_5b.mp3)**
-- **[Reflection Clara The Unflinching AI Coach](podcasts/POD-prompt-Reflection_Clara_The_Unflinching_AI_Coach.mp3)**
-- **[La Saucy Clara Culinary Assistant Persona Guide](podcasts/POD-prompt-La_Saucy_Clara_Culinary_Assistant_Persona_Guide.mp3)**
-- **[Show, Don't Just Tell Guiding AI with Examples](podcasts/POD-philosophies-Show_Dont_Just_Tell_Guiding_AI_with_Examples.mp3)**
-- **[The Art of AI-Assisted Brainstorming and Design](podcasts/POD-conversation-The_Art_of_AI-Assisted_Brainstorming_and_Design.mp3)**
-- **[Why It Works: The Philosophy Behind Claraforge](podcasts/POD-WhyItWorks-The_Claraforge_Approach_Method_Meets_Mayhem.mp3)**
+- [`POD-Conversation-Ultimate_AI_Agent_Design_Brainstorming.m4a`](media/podcasts/POD-Conversation-Ultimate_AI_Agent_Design_Brainstorming.m4a)
+- [`POD-Philosophies-AI_Best_Practices.m4a`](media/podcasts/POD-Philosophies-AI_Best_Practices.m4a)
+- [`POD-Prompt-Clara_La_Cultivatrice_Urban_Gardener.m4a`](media/podcasts/POD-Prompt-Clara_La_Cultivatrice_Urban_Gardener.m4a)
+- [`POD-Prompt-La_Saucy_Clara_Culinary_Commandments.m4a`](media/podcasts/POD-Prompt-La_Saucy_Clara_Culinary_Commandments.m4a)
+- [`POD-Prompt-Reflection_Clara_The_Iron_Gauntlet_AI_Companion.m4a`](media/podcasts/POD-Prompt-Reflection_Clara_The_Iron_Gauntlet_AI_Companion.m4a)
+- [`POD-Prompt-The_Intent_Alchemist_prompt_engineer.m4a`](media/podcasts/POD-Prompt-The_Intent_Alchemist_prompt_engineer.m4a)
+- [`POD-Prompt_The_original_Sassy_Witty_and_Unapologetically_Intelligent_AI_Assistant.m4a`](media/podcasts/POD-Prompt_The_original_Sassy_Witty_and_Unapologetically_Intelligent_AI_Assistant.m4a)
+- [`POD-README-Human-AI_Collaboration_Framework.m4a`](media/podcasts/POD-README-Human-AI_Collaboration_Framework.m4a)
+- [`POD-Why_it_works_Behind_the_Curtains_of_AI_Collaboration.m4a`](media/podcasts/POD-Why_it_works_Behind_the_Curtains_of_AI_Collaboration.m4a)
 
 These podcast sessions demonstrate the principles and methodologies in conversational format, perfect for learning while commuting or during downtime.
+
+### 🎬 Video Library (`/media/videos/`)
+
+Curated walkthroughs, demos, and deep dives in video format:
+
+- [`VID-Conversation-Ultimate_AI_Agent_Design_Brainstorming.mp4`](media/videos/VID-Conversation-Ultimate_AI_Agent_Design_Brainstorming.mp4)
+- [`VID-Philosophies-AI_Best_Practices.mp4`](media/videos/VID-Philosophies-AI_Best_Practices.mp4)
+- [`VID-Prompt_The_Original_Sassy_Witty_and_Unapologetically_Intelligent_AI_Assistant.mp4`](media/videos/VID-Prompt_The_Original_Sassy_Witty_and_Unapologetically_Intelligent_AI_Assistant.mp4)
+- [`VID-Prompt_Clara_La_Cultivatrice_Urban_Gardener.mp4`](media/videos/VID-Prompt_Clara_La_Cultivatrice_Urban_Gardener.mp4)
+- [`VID-Prompt-La_Saucy_Clara_Culinary_Commandments.mp4`](media/videos/VID-Prompt-La_Saucy_Clara_Culinary_Commandments.mp4)
+- [`VID-Prompt-Reflection_Clara_The_Iron_Gauntlet_AI_Companion.mp4`](media/videos/VID-Prompt-Reflection_Clara_The_Iron_Gauntlet_AI_Companion.mp4)
+- [`VID-Prompt-The_Intent_Alchemist_prompt_engineer.mp4`](media/videos/VID-Prompt-The_Intent_Alchemist_prompt_engineer.mp4)
+- [`VID-README-Human-AI_Collaboration_Framework.mp4`](media/videos/VID-README-Human-AI_Collaboration_Framework.mp4)
+- [`VID-Why_it_works_Behind_the_Curtains_of_AI_Collaboration.mp4`](media/videos/VID-Why_it_works_Behind_the_Curtains_of_AI_Collaboration.mp4)
+
+These videos complement the written docs and conversations with visual, step-by-step guidance.
 
 ## 🚀 Getting Started
 
@@ -169,7 +196,7 @@ Clara learns and adapts to user preferences while maintaining her core personali
 
 ### Philosophy Integration
 
-Consistent application of the 9 core protocols across all interactions.
+Consistent application of the 10 core protocols across all interactions.
 
 ## 🤝 Contributing & Collaboration
 
@@ -213,7 +240,7 @@ This project is released under the MIT License, which means:
 - Include the original license and copyright notice
 - Don't blame us if something goes wrong (standard MIT disclaimer)
 
-See the [LICENSE](LICENSE) file for full details.
+See the [LICENSE](LICENSE.md) file for full details.
 
 ## 🌍 Community & Support
 
@@ -264,8 +291,8 @@ Join us in building this future. Fork Claraforge, adapt it to your needs, share 
 
 ## 📊 Project Stats
 
-- **9** Core AI Interaction Protocols
-- **4** Specialized Clara Personalities  
+- **10** Core AI Interaction Protocols
+- **5** Specialized Clara Personalities
 - **Multiple** Documented Conversation Methodologies
 - **Growing** Community of Advanced AI Practitioners
 - **MIT** Licensed for Maximum Freedom

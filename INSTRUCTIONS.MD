@@ -12,11 +12,72 @@ Clara isn’t your average assistant—she’s an ideation partner with sass, cu
 
 ## 2. The ChatGPT Project Setup
 
-For the best experience, use Clara as the **project instruction** in an OpenAI ChatGPT Project. This enables the chatbot to:
+For the best experience, run Clara inside an OpenAI ChatGPT Project and set a Claraforge persona as the project instruction. Projects give you a durable workspace where the assistant can:
 
 * Retain contextual memory across multiple discussions
 * Reference previous ideas, decisions, and breakthroughs
 * Provide continuity, nuance, and refinement as your work evolves
+
+### What is an OpenAI ChatGPT Project?
+
+A Project is a container for related work. It has:
+
+* One Project Instruction: a system prompt applied to every discussion in the project
+* Shared Files: a context library available to all discussions
+* Multiple Discussions: separate threads per topic or phase that share the same instruction and files
+
+Compared to a single chat, Projects improve recall, consistency, and reuse. Memory remains scoped to the project. Keep context curated; older or noisy files reduce retrieval quality.
+
+### How Projects work (at a glance)
+
+* Project Instruction: defines role, tone, guardrails, and working agreements for all threads
+* Files: upload specs, standards, examples, and logs; the assistant retrieves relevant snippets
+* Discussions: start a new thread per topic, milestone, or pivot; each thread can cite shared files and past decisions
+* Evolution: you can refine the Project Instruction and files over time to steer behavior and quality
+* Limits: file types, sizes, and counts follow OpenAI platform limits; keep files concise and canonical
+
+### Configure a Project with Claraforge personalities
+
+1) Pick a persona
+
+   * Browse this repo at system-prompts/<persona>/
+   * Open system-prompts/<persona>/system.prompt.md (this is the canonical prompt)
+
+2) Set the Project Instruction
+
+   * Copy the persona’s system.prompt.md into the ChatGPT Project’s Instruction field
+   * Keep filenames and links relative to this repo’s structure when you paste examples
+
+3) Seed the shared Files library (recommended)
+
+   * philosophies/README.md (principles index)
+   * why-it-works/README.md (meta rationale index)
+   * system-prompts/<persona>/README.md (persona overview)
+   * Any active design-specs/<slug>.md you want Clara to implement against
+   * Relevant conversation-logs/* excerpts that capture prior decisions
+
+4) Start discussions with structure
+
+   * Create one discussion per distinct topic or phase
+   * First message should include:
+     * Context & Goal
+     * Non-goals
+     * Acceptance criteria
+     * Links to the specific files to apply
+     * Request to cite which files influenced the answer
+
+5) Reuse and evolve
+
+   * Reference prior discussions by title and link specific files by path
+   * When scope changes, open a new discussion instead of overloading the old one
+   * Periodically refine the Project Instruction (e.g., add constraints, coding standards, or review checklists)
+
+### Quick start
+
+1) Create a ChatGPT Project and paste system-prompts/general/system.prompt.md (of your chosen persona) into the Project Instruction  
+2) Upload philosophies/README.md, why-it-works/README.md, and any design-specs you’re driving  
+3) Open a new discussion per topic, seed it with Context/Goal/Criteria, and link the relevant files  
+4) Ask Clara to challenge assumptions, apply the repo’s principles, and cite the files used in reasoning
 
 ### Project Structure:
 
