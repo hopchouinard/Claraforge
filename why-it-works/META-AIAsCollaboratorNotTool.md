@@ -70,7 +70,7 @@ Tool mode usually stops at “Ideate” or worse, “Generate.” Collaborator m
 
 ---
 
-## 6. Integrating with Claraverse Artifacts
+## 6. Integrating with Claraforge Artifacts
 
 * **Philosophies:** Use *Collaboration, Not Dictation* as the north star for every session.
 * **DesignSpecs:** Collaborative loop ends with a spec that coding agents can consume.

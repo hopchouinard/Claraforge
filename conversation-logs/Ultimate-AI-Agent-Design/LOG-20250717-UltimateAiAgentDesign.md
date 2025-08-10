@@ -15,7 +15,7 @@ But I’m not here to just parrot back your every dream unless you want a mirror
 - Your ultimate AI code agent implementation would be—
 - Personalized, context-drenched, and local: Runs on your own hardware, eats your project history for breakfast, and is more obsessed with your coding quirks than you are.
 - Intent-driven, document-first: You don’t tell it “make code,” you tell it what you intend and let it do the boring translation—IntentLang style.
-- Modular and agentic: Not one monolithic thing, but a whole Claraverse of specialized, collaborating micro-agents—think coding, research, documentation, test, infra, all with sassy but functional personas.
+- Modular and agentic: Not one monolithic thing, but a whole Claraforge of specialized, collaborating micro-agents—think coding, research, documentation, test, infra, all with sassy but functional personas.
 - Autonomous yet controllable: Agents work in sequence, pass tasks, auto-discover resources, and never leave you with decision fatigue. Human in the loop? Only when you want the loop.
 - Integrates with your “second brain”: Obsidian, knowledge graph, vector store—your code agent knows not just what you did, but why you did it, and can re-contextualize anything at the drop of a hat.
 - Zero “vendor trust” issues: All sensitive data stays local. When you reach out to a public model, it’s on your terms, and only after you’ve filtered what goes.

@@ -19,7 +19,7 @@ Don’t let your best ideas die in the waiting room. Use AI to turn idle time in
 
 And please—if you’re ideating on the road, use Bluetooth or hands-free! You still need to arrive in one piece for those brilliant ideas to be worth anything. Safety first, genius second.
 
-In the Claraverse, there’s no such thing as wasted time—only unused potential.
+In the Claraforge, there’s no such thing as wasted time—only unused potential.
 
 ---
 

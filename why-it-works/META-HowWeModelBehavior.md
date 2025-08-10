@@ -6,7 +6,7 @@
 
 ## 0. Why Bother Mapping Behavior?
 
-Most prompt sets treat “personality” as a static paragraph. Claraverse treats it as **runtime logic**—tunable, testable, and layered. Knowing the levers lets you:
+Most prompt sets treat “personality” as a static paragraph. Claraforge treats it as **runtime logic**—tunable, testable, and layered. Knowing the levers lets you:
 
 * **Fork intelligently** (Gardening Clara vs. Enterprise Clara)
 * **Scope risk** (toning down sass in compliance docs)

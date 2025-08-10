@@ -1,10 +1,10 @@
 # Why It Works: The Science Behind the Sass
 
-> *Welcome to the engine room of Claraverse—where cognitive science meets code, personality meets process, and every design decision is dissected with surgical precision (and occasional snark).*
+> *Welcome to the engine room of Claraforge—where cognitive science meets code, personality meets process, and every design decision is dissected with surgical precision (and occasional snark).*
 
 ## 🎯 What This Folder Contains
 
-This is Claraverse's **meta-intelligence layer**—the backstage documentation that explains not just *what* we built, but *why* it works, *how* it scales, and *what makes it different* from every other AI collaboration framework on the planet.
+This is Claraforge's **meta-intelligence layer**—the backstage documentation that explains not just *what* we built, but *why* it works, *how* it scales, and *what makes it different* from every other AI collaboration framework on the planet.
 
 If the main repo is the product, this folder is the **product philosophy manual**.
 
@@ -12,7 +12,7 @@ If the main repo is the product, this folder is the **product philosophy manual*
 
 ### 🧠 Core Cognitive Architecture
 
-**[Human Cognition Bridge](META-HumanCognitionBridge.md)** - *How Claraverse Hacks Your Brain (for Good)*
+**[Human Cognition Bridge](META-HumanCognitionBridge.md)** - *How Claraforge Hacks Your Brain (for Good)*
 
 - Explains the five cognitive principles that make AI collaboration stick
 - Maps attention cycles, social heuristics, and memory anchors to specific repo features
@@ -42,13 +42,13 @@ If the main repo is the product, this folder is the **product philosophy manual*
 
 **[Intentional Design](META-IntentionalDesign.md)** - *Clara's Back-Stage Pass*
 
-- Candid insights into the design tensions and decisions behind Claraverse
+- Candid insights into the design tensions and decisions behind Claraforge
 - The stories behind self-selling prompts, transcript transparency, and audio on-ramps
 - Real talk about why certain choices were made (and which ones were controversial)
 
 **[Pattern Language & Context](META-PatternLanguageAndContext.md)** - *Naming Things So Your Brain Doesn't Implode*
 
-- The taxonomy of pattern tags that make Claraverse navigable
+- The taxonomy of pattern tags that make Claraforge navigable
 - Context-stacking rules that prevent information chaos
 - Guidelines for adding new patterns while maintaining coherence
 
@@ -66,10 +66,10 @@ If the main repo is the product, this folder is the **product philosophy manual*
 - How Clara stays in her creative lane while enabling precise execution
 - Template for design specs that coding agents can actually use
 
-**[The Claraverse Approach](META-TheClaraverseApproach.md)** - *Where Method Meets Mayhem*
+**[The Claraforge Approach](META-TheClaraforgeApproach.md)** - *Where Method Meets Mayhem*
 
-- The three pillars that make Claraverse work when other knowledge projects collect dust
-- The "Claraverse Spiral" - our take on iterative improvement
+- The three pillars that make Claraforge work when other knowledge projects collect dust
+- The "Claraforge Spiral" - our take on iterative improvement
 - Opinionated defaults and non-negotiables that maintain quality
 
 ### 🧭 Philosophy & Navigation
@@ -88,7 +88,7 @@ If the main repo is the product, this folder is the **product philosophy manual*
 
 ### 📈 Learning & Evolution
 
-**[WhyItWorks Learning Model](META-WhyItWorks_LearningModel.md)** - *How Claraverse Teaches Itself (and You)*
+**[WhyItWorks Learning Model](META-WhyItWorks_LearningModel.md)** - *How Claraforge Teaches Itself (and You)*
 
 - The built-in learning loop that improves the framework over time
 - Feedback channels and governance for community contributions
@@ -114,11 +114,11 @@ If the main repo is the product, this folder is the **product philosophy manual*
 
 ### For Quick Orientation
 
-Start with **[Why This Is Not Just a Prompt Repo](META-WhyThisIsNotJustAPromptRepo.md)** to understand what makes Claraverse different, then check the **[Philosophy Map](META-PhilosophyMap.md)** for navigation.
+Start with **[Why This Is Not Just a Prompt Repo](META-WhyThisIsNotJustAPromptRepo.md)** to understand what makes Claraforge different, then check the **[Philosophy Map](META-PhilosophyMap.md)** for navigation.
 
 ### For Implementers
 
-Read **[AI as Collaborator, Not Tool](META-AIAsCollaboratorNotTool.md)** and **[From Chat to Code](META-FromChatToCode.md)** to understand the workflow, then dive into **[The Claraverse Approach](META-TheClaraverseApproach.md)** for execution guidance.
+Read **[AI as Collaborator, Not Tool](META-AIAsCollaboratorNotTool.md)** and **[From Chat to Code](META-FromChatToCode.md)** to understand the workflow, then dive into **[The Claraforge Approach](META-TheClaraforgeApproach.md)** for execution guidance.
 
 ### For Contributors
 
@@ -134,7 +134,7 @@ Essential reading: **[Forkable Thinking](META-ForkableThinking.md)**, **[Pattern
 
 ## 🧪 The Meta-Learning Laboratory
 
-This folder serves as Claraverse's **reflection engine**—constantly analyzing what works, what doesn't, and why. Every document here represents:
+This folder serves as Claraforge's **reflection engine**—constantly analyzing what works, what doesn't, and why. Every document here represents:
 
 - **Cognitive archaeology**: Digging into the psychology of effective AI collaboration
 - **Design forensics**: Understanding which decisions created which outcomes
@@ -143,9 +143,9 @@ This folder serves as Claraverse's **reflection engine**—constantly analyzing 
 
 ## 🚀 The Deeper Value
 
-While the main Claraverse repo gives you tools for AI collaboration, this folder gives you the **mental models** to use those tools effectively. It's the difference between having a recipe and understanding cooking.
+While the main Claraforge repo gives you tools for AI collaboration, this folder gives you the **mental models** to use those tools effectively. It's the difference between having a recipe and understanding cooking.
 
-The insights here aren't just about Clara or Claraverse—they're about:
+The insights here aren't just about Clara or Claraforge—they're about:
 
 - How humans and AI can think better together
 - Why certain interaction patterns succeed where others fail
@@ -154,7 +154,7 @@ The insights here aren't just about Clara or Claraverse—they're about:
 
 ## 🎯 The Ultimate Goal
 
-Every document in this folder serves the same meta-objective: **making excellence effortless**. By understanding why Claraverse works, you can:
+Every document in this folder serves the same meta-objective: **making excellence effortless**. By understanding why Claraforge works, you can:
 
 - **Adapt it intelligently** to your specific context
 - **Debug problems** by tracing them to first principles

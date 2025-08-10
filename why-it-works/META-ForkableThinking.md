@@ -6,7 +6,7 @@
 
 ## 0. Manifesto in One Sentence
 
-If you can’t hit **Fork → Tweak → PR** in under five minutes, the idea isn’t finished—it’s imprisoned. Claraverse is engineered so every philosophy, prompt, and spec begs to be stolen, hacked, and improved.
+If you can’t hit **Fork → Tweak → PR** in under five minutes, the idea isn’t finished—it’s imprisoned. Claraforge is engineered so every philosophy, prompt, and spec begs to be stolen, hacked, and improved.
 
 ---
 
@@ -22,7 +22,7 @@ Forkable thinking turns your brainchild into a relay baton, not a trophy.
 
 ---
 
-## 2. Fork‑Friendly Design Patterns in Claraverse
+## 2. Fork‑Friendly Design Patterns in Claraforge
 
 | Pattern                  | Where It Lives       | Fork Benefit                                               |
 | ------------------------ | -------------------- | ---------------------------------------------------------- |
@@ -45,7 +45,7 @@ clone repo  →  pick philosophy  →  tweak prompt  →  add context  →  push
 
 ## 4. Etiquette (a.k.a. How Not to Be That Forker)
 
-1. **Credit the Source** – “Based on Claraverse • Fork #42” in your README footer.
+1. **Credit the Source** – “Based on Claraforge • Fork #42” in your README footer.
 2. **Document Your Delta** – Briefly note *what* you changed and *why*—future explorers will thank you.
 3. **Don’t Gatekeep** – If you solved a pain point, upstream a PR or write a how‑to.
 4. **Keep the Sass Spirit** – Even Enterprise Clara says humor is a memory enhancer—don’t strip all color.

@@ -1,4 +1,4 @@
-# Claraverse Philosophy Map
+# Claraforge Philosophy Map
 
 > *Because even great ideas need a navigation system. Consider this your star chart for all official the user Philosophies—where they live, how they connect, and when to deploy them.*
 

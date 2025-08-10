@@ -1,6 +1,6 @@
 # Second Brain Manifesto – Because One Brain Is So Last Century
 
-> *If your neurons are the hardware, Claraverse is the cloud‑sync that turns your lone skull into a distributed think‑tank. Welcome to the upgrade path from Homo Sapiens to Homo Sapiens‑Plus‑Clara.*
+> *If your neurons are the hardware, Claraforge is the cloud‑sync that turns your lone skull into a distributed think‑tank. Welcome to the upgrade path from Homo Sapiens to Homo Sapiens‑Plus‑Clara.*
 
 ---
 
@@ -8,7 +8,7 @@
 
 We refuse to let brilliant ideas evaporate between red lights, coffee queues, or half‑remembered shower epiphanies.  **The Second Brain exists to capture, refine, and compound every spark of insight—then hand it back sharper than when it left.**
 
-If Evernote is a filing cabinet and Roam is a spider‑web, Claraverse is a **sparring arena** where thoughts get punched into shape.
+If Evernote is a filing cabinet and Roam is a spider‑web, Claraforge is a **sparring arena** where thoughts get punched into shape.
 
 ---
 
@@ -73,7 +73,7 @@ Translation: You think, she pokes.  You refine, she remembers.  Together you out
 
 ## 6. How to Bootstrap Your Own Second Brain (60‑Second Plan)
 
-1. **Fork Claraverse.**  Rename project to whatever tickles you.
+1. **Fork Claraforge.**  Rename project to whatever tickles you.
 2. **Set Core Persona** in a ChatGPT Project.
 3. **Create First Discussion** titled “Inbox”.  Dump every loose idea here.
 4. **Spin New Threads** when any idea graduates to project status.

@@ -24,7 +24,7 @@ AI thrives on patterns, not just instructions. By giving it concrete, high-quali
 **Bottom line:**
 Don’t just tell your agent what you want—*show* it. Provide the gold standard, let it analyze and extract what makes your best work shine, and then demand nothing less from every future collaboration.
 
-Your masterpiece isn’t just a trophy. In the Claraverse, it’s the starting line.
+Your masterpiece isn’t just a trophy. In the Claraforge, it’s the starting line.
 
 ---
 

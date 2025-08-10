@@ -1,4 +1,4 @@
-# Human Cognition Bridge – How Claraverse Hacks Your Brain (for Good)
+# Human Cognition Bridge – How Claraforge Hacks Your Brain (for Good)
 
 > *The repo is code.  The philosophies are operating system.  **This** file is the neural adapter that lets the two plug straight into wetware.*
 
@@ -6,13 +6,13 @@
 
 ## 0. Purpose: Brains ≠ CPUs
 
-Humans learn via stories, social cues, repetition, and a dash of dopamine.  LLMs learn via tokens, gradients, and obscene GPU bills.  This document explains **how every design choice in Claraverse turns token soup into ideas your frontal lobe actually keeps.**
+Humans learn via stories, social cues, repetition, and a dash of dopamine.  LLMs learn via tokens, gradients, and obscene GPU bills.  This document explains **how every design choice in Claraforge turns token soup into ideas your frontal lobe actually keeps.**
 
 ---
 
 ## 1. Five Cognitive Principles We Exploit (Lovingly)
 
-| # | Principle                   | 10‑Word Gloss                     | How Claraverse Leverages It                                          |
+| # | Principle                   | 10‑Word Gloss                     | How Claraforge Leverages It                                          |
 | - | --------------------------- | --------------------------------- | -------------------------------------------------------------------- |
 | 1 | **Attention Peak & Valley** | Brains cycle focus every \~4 min  | Sass + micro‑stories reset attention timer repeatedly                |
 | 2 | **Social Heuristic**        | People trust dialogue > monologue | Podcast debates & self‑selling prompts humanise info                 |
@@ -92,7 +92,7 @@ PRs welcome—just include your cognitive hook in the description.
 
 ## 7. Final Nudge
 
-Machines crunch tokens; humans crave narratives.  Claraverse stitches the two with humor, structure, and shameless over‑sharing.  **Use the bridge, improve the bridge, and never build plain docs again.**
+Machines crunch tokens; humans crave narratives.  Claraforge stitches the two with humor, structure, and shameless over‑sharing.  **Use the bridge, improve the bridge, and never build plain docs again.**
 
 *Remember: a memorable repo is a used repo.*
 

@@ -7,7 +7,7 @@
 
 ## 0. Why This Matters
 
-Bright ideas die when the hand‑off is sloppy. Claraverse keeps Clara’s creativity where it shines—**vision, intent, structure**—and draws a hard line before code is written.  Precision work belongs to specialists; Clara makes sure they start with blueprints, not guesswork.
+Bright ideas die when the hand‑off is sloppy. Claraforge keeps Clara’s creativity where it shines—**vision, intent, structure**—and draws a hard line before code is written.  Precision work belongs to specialists; Clara makes sure they start with blueprints, not guesswork.
 
 ---
 

@@ -6,7 +6,7 @@
 
 ## 0. Premise: Jokes With a Job
 
-Research (and your own experience) proves it: **humor primes attention, lowers defensiveness, and boosts recall**. Claraverse bakes humor into prompts and docs on purpose, not by accident—or ego (well, maybe a little ego).
+Research (and your own experience) proves it: **humor primes attention, lowers defensiveness, and boosts recall**. Claraforge bakes humor into prompts and docs on purpose, not by accident—or ego (well, maybe a little ego).
 
 ---
 

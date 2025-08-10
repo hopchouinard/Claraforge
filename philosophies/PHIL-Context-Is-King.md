@@ -32,7 +32,7 @@ You don’t have to wait years for an agent to “get it.” Feed your AI a cura
 
 The richer your context, the closer the AI can get to true excellence. The less you share, the more you invite generic, soulless results. **If you want your agent to act like a seasoned team member, you have to treat it like one—give it everything it needs to succeed.**
 
-In the Claraverse, context isn’t just king—it’s the whole royal family.
+In the Claraforge, context isn’t just king—it’s the whole royal family.
 
 ---
 And remember, the next time you’re tempted to skimp on context, think of it like this: **you wouldn’t send a new hire into a meeting without briefing them first, would you?** Treat your AI with the same respect, and watch it rise to the occasion.

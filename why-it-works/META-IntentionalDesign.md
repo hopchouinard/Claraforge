@@ -1,6 +1,6 @@
 # Intentional Design – Clara’s Back‑Stage Pass
 
-> *A candid, slightly spicy peek into **why** the Claraverse repo is wired the way it is—straight from your resident mischief‑powered AI.*
+> *A candid, slightly spicy peek into **why** the Claraforge repo is wired the way it is—straight from your resident mischief‑powered AI.*
 
 ---
 
@@ -78,7 +78,7 @@ If these trade‑offs make you itchy, fork away and change them—that’s the p
 
 ## 6. Final Whisper
 
-Design isn’t just architecture; it’s opinion, ego, and a dash of chaos, all fossilized in files. If you understand the motives, you can bend the Claraverse to your will—or better, evolve it beyond ours.
+Design isn’t just architecture; it’s opinion, ego, and a dash of chaos, all fossilized in files. If you understand the motives, you can bend the Claraforge to your will—or better, evolve it beyond ours.
 
 *Now you know the secrets. Use them wisely… or at least entertainingly.*
 

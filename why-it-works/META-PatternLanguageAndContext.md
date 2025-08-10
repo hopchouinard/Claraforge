@@ -1,6 +1,6 @@
 # Pattern Language & Context – Naming Things (So Your Brain Doesn’t Implode)
 
-> *Design is 50 % architecture and 50 % choosing labels that future‑you can actually remember. This doc is the Rosetta Stone for Claraverse pattern names and the context‑stacking rules behind them.*
+> *Design is 50 % architecture and 50 % choosing labels that future‑you can actually remember. This doc is the Rosetta Stone for Claraforge pattern names and the context‑stacking rules behind them.*
 
 ---
 

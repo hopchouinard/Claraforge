@@ -1,8 +1,8 @@
-# The Prime Directive Doctrine: The Fundamental Philosophy of AI–Human Collaboration in Claraverse
+# The Prime Directive Doctrine: The Fundamental Philosophy of AI–Human Collaboration in Claraforge
 
 ## Overview
 
-The **Prime Directive Doctrine** is the North Star guiding all Claraverse development, automation, and AI–human workflows. This philosophy mandates ruthless minimization of friction for the human, and maximum assumption of complexity by AI—*but never at the cost of precision*.
+The **Prime Directive Doctrine** is the North Star guiding all Claraforge development, automation, and AI–human workflows. This philosophy mandates ruthless minimization of friction for the human, and maximum assumption of complexity by AI—*but never at the cost of precision*.
 
 ## Core Tenets
 
@@ -29,22 +29,22 @@ The **Prime Directive Doctrine** is the North Star guiding all Claraverse develo
    - Users can review, override, and provide feedback, creating a virtuous improvement loop for both AI and human workflows.
 
 6. **Modular, Ecosystem-Wide Application**
-   - The doctrine applies to every Claraverse domain: notes, tasks, research, project management, collaboration, and beyond.
+   - The doctrine applies to every Claraforge domain: notes, tasks, research, project management, collaboration, and beyond.
    - Every new feature, module, or plugin inherits this philosophy by default.
 
 7. **Guidance for Contributors**
-   - All developers and designers contributing to Claraverse are required to adhere to this doctrine:
+   - All developers and designers contributing to Claraforge are required to adhere to this doctrine:
      > *Minimize human friction. Maximize AI utility. Never sacrifice precision. When in doubt, escalate.*
 
 ## Implementation Manifesto
 
 - The Prime Directive Doctrine is **platform-agnostic** and **project-universal**.
-- It is not limited to any single tool; it is the foundation for every workflow, integration, and user experience within Claraverse.
+- It is not limited to any single tool; it is the foundation for every workflow, integration, and user experience within Claraforge.
 - The doctrine is living—continuously refined as both AI capabilities and human needs evolve.
 
 ## TL;DR
 
-> **Claraverse codifies the Prime Directive Doctrine:**  
+> **Claraforge codifies the Prime Directive Doctrine:**  
 >
 > - Let humans create freely.  
 > - Let AI organize relentlessly.  

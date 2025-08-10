@@ -6,7 +6,7 @@
 
 ## 0. Elevator Pitch
 
-The Claraverse README is beefy—and deliberately so. But expecting every visitor to read thousands of words is wishful thinking. **Our solution:** auto‑generate a 10–15 min podcast where two AI hosts debate the README’s highlights. Instant on‑ramp for auditory learners, multitaskers, and anyone allergic to walls of text.
+The Claraforge README is beefy—and deliberately so. But expecting every visitor to read thousands of words is wishful thinking. **Our solution:** auto‑generate a 10–15 min podcast where two AI hosts debate the README’s highlights. Instant on‑ramp for auditory learners, multitaskers, and anyone allergic to walls of text.
 
 ---
 

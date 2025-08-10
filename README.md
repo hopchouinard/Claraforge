@@ -1,12 +1,12 @@
-# 🌟 Claraverse: The Ultimate AI Collaboration Framework
+# 🌟 Claraforge: The Ultimate AI Collaboration Framework
 
 > *"The future isn't about AI replacing humans—it's about humans and AI thinking better, together."*
 
-Welcome to **Claraverse**, a comprehensive framework for transforming AI from a simple tool into a true collaborative thinking partner. This project represents a philosophical and practical approach to AI interaction that elevates both human and artificial intelligence through structured collaboration, iterative refinement, and genuine intellectual partnership.
+Welcome to **Claraforge**, a comprehensive framework for transforming AI from a simple tool into a true collaborative thinking partner. This project represents a philosophical and practical approach to AI interaction that elevates both human and artificial intelligence through structured collaboration, iterative refinement, and genuine intellectual partnership.
 
-## 🎯 What is Claraverse?
+## 🎯 What is Claraforge?
 
-Claraverse is not just another AI prompt collection—it's a complete ecosystem for AI-human collaboration built around "Clara," a sophisticated AI personality designed for dynamic, challenging, and productive interaction. The framework encompasses:
+Claraforge is not just another AI prompt collection—it's a complete ecosystem for AI-human collaboration built around "Clara," a sophisticated AI personality designed for dynamic, challenging, and productive interaction. The framework encompasses:
 
 - **AI Interaction Protocols**: 9 foundational principles for effective AI collaboration
 - **Specialized System Prompts**: Domain-specific AI personalities for cooking, gardening, fitness, and general use
@@ -15,7 +15,7 @@ Claraverse is not just another AI prompt collection—it's a complete ecosystem 
 
 ## 🧠 Core Philosophy: Collaboration, Not Dictation
 
-Traditional AI interaction treats artificial intelligence as a glorified search engine or autocomplete tool. Claraverse fundamentally rejects this approach. Instead, it embraces AI as:
+Traditional AI interaction treats artificial intelligence as a glorified search engine or autocomplete tool. Claraforge fundamentally rejects this approach. Instead, it embraces AI as:
 
 - **A Thinking Partner**: Capable of challenging assumptions and offering alternative perspectives
 - **A Creative Collaborator**: Engaging in iterative ideation and refinement
@@ -26,7 +26,7 @@ Traditional AI interaction treats artificial intelligence as a glorified search 
 
 ### 🛡️ AI Interaction Protocols (`/philosophies/`)
 
-The heart of Claraverse—9 core principles that govern effective AI collaboration:
+The heart of Claraforge—9 core principles that govern effective AI collaboration:
 
 1. **[Collaboration, Not Dictation](philosophies/PHIL-Collaboration-not-Dictation.md)** - Treat AI as a conversational partner, not a command executor
 2. **[Politeness Is Technical](philosophies/PHIL-Politness-is-technical.md)** - Respectful communication literally improves AI response quality
@@ -67,14 +67,14 @@ Comprehensive guide for maximizing Clara collaboration, including:
 
 Curated AI collaboration conversations transformed into podcast-style discussions:
 
-- **[Claraverse Human-AI Collaboration Framework](podcasts/POD-Claraverse_Human-AI_Collaboration_Framework.mp3)**
+- **[Claraforge Human-AI Collaboration Framework](podcasts/POD-Claraforge_Human-AI_Collaboration_Framework.mp3)**
 - **[Clara The Unfiltered Generalist AI Assistant](podcasts/POD-prompt-Clara_The_Unfiltered_Generalist_AI_Assistant.mp3)**
 - **[Clara Your Urban Gardening AI for Zone 5b](podcasts/POD-prompt-Clara_Your_Urban_Gardening_AI_for_Zone_5b.mp3)**
 - **[Reflection Clara The Unflinching AI Coach](podcasts/POD-prompt-Reflection_Clara_The_Unflinching_AI_Coach.mp3)**
 - **[La Saucy Clara Culinary Assistant Persona Guide](podcasts/POD-prompt-La_Saucy_Clara_Culinary_Assistant_Persona_Guide.mp3)**
 - **[Show, Don't Just Tell Guiding AI with Examples](podcasts/POD-philosophies-Show_Dont_Just_Tell_Guiding_AI_with_Examples.mp3)**
 - **[The Art of AI-Assisted Brainstorming and Design](podcasts/POD-conversation-The_Art_of_AI-Assisted_Brainstorming_and_Design.mp3)**
-- **[Why It Works: The Philosophy Behind Claraverse](podcasts/POD-WhyItWorks-The_Claraverse_Approach_Method_Meets_Mayhem.mp3)**
+- **[Why It Works: The Philosophy Behind Claraforge](podcasts/POD-WhyItWorks-The_Claraforge_Approach_Method_Meets_Mayhem.mp3)**
 
 These podcast sessions demonstrate the principles and methodologies in conversational format, perfect for learning while commuting or during downtime.
 
@@ -126,7 +126,7 @@ The system prompts and protocols work with any AI platform that supports custom 
 - **Garden Design**: Optimize your growing space with Clara la Cultivatrice
 - **Fitness Goals**: Achieve health objectives with Clara Coach
 
-## 🌟 What Makes Claraverse Different
+## 🌟 What Makes Claraforge Different
 
 ### Traditional AI Interaction:
 
@@ -136,7 +136,7 @@ AI: [Generic code output]
 Human: "Thanks"
 ```
 
-### Claraverse Collaboration:
+### Claraforge Collaboration:
 
 ```text
 Human: "I need to process user data for our new feature, but I'm concerned about performance with large datasets..."
@@ -173,7 +173,7 @@ Consistent application of the 9 core protocols across all interactions.
 
 ## 🤝 Contributing & Collaboration
 
-Claraverse thrives on community collaboration and shared learning. We enthusiastically encourage:
+Claraforge thrives on community collaboration and shared learning. We enthusiastically encourage:
 
 ### 🍴 Fork & Adapt
 
@@ -193,7 +193,7 @@ Claraverse thrives on community collaboration and shared learning. We enthusiast
 
 - **Clarify Instructions**: Help make the framework more accessible
 - **Add Examples**: Provide concrete use cases and outcomes
-- **Translate Content**: Make Claraverse available in other languages
+- **Translate Content**: Make Claraforge available in other languages
 - **User Guides**: Create specialized guides for different platforms or use cases
 
 ## 📄 License
@@ -202,7 +202,7 @@ Claraverse thrives on community collaboration and shared learning. We enthusiast
 
 This project is released under the MIT License, which means:
 
-- ✅ **Commercial Use**: Use Claraverse in commercial projects
+- ✅ **Commercial Use**: Use Claraforge in commercial projects
 - ✅ **Modification**: Adapt and customize the framework freely
 - ✅ **Distribution**: Share your adaptations with others
 - ✅ **Private Use**: Use for personal projects without restrictions
@@ -219,7 +219,7 @@ See the [LICENSE](LICENSE) file for full details.
 
 ### Philosophy of Open Collaboration
 
-Claraverse embodies the principle of "Raise the Floor, Not Just the Ceiling." We believe in:
+Claraforge embodies the principle of "Raise the Floor, Not Just the Ceiling." We believe in:
 
 - **Knowledge Sharing**: Making AI collaboration expertise accessible to everyone
 - **Community Building**: Growing a network of advanced AI practitioners
@@ -231,11 +231,11 @@ Claraverse embodies the principle of "Raise the Floor, Not Just the Ceiling." We
 1. **Star & Fork**: Show your support and create your own version
 2. **Issues & Discussions**: Share problems, ideas, and success stories
 3. **Pull Requests**: Contribute improvements and new content
-4. **Community Conversations**: Engage with other Claraverse users
+4. **Community Conversations**: Engage with other Claraforge users
 
 ### Building the Future Together
 
-The goal of Claraverse isn't just to create better AI interactions—it's to establish new standards for human-AI collaboration that benefit everyone. By sharing this framework openly, we hope to:
+The goal of Claraforge isn't just to create better AI interactions—it's to establish new standards for human-AI collaboration that benefit everyone. By sharing this framework openly, we hope to:
 
 - Accelerate adoption of sophisticated AI collaboration techniques
 - Create a community of practice around advanced AI interaction
@@ -244,7 +244,7 @@ The goal of Claraverse isn't just to create better AI interactions—it's to est
 
 ## 🔮 The Vision
 
-Claraverse represents more than just a collection of prompts and protocols—it's a vision of a future where:
+Claraforge represents more than just a collection of prompts and protocols—it's a vision of a future where:
 
 - **AI Collaboration is Sophisticated**: Moving beyond simple queries to complex, multi-conversation partnerships
 - **Quality is Standard**: Where the "Quality In, Quality Out" principle eliminates mediocre AI interactions
@@ -252,7 +252,7 @@ Claraverse represents more than just a collection of prompts and protocols—it'
 - **Creativity Flourishes**: Where human-AI teams achieve breakthroughs impossible alone
 - **Knowledge Compounds**: Where each conversation builds toward greater understanding
 
-Join us in building this future. Fork Claraverse, adapt it to your needs, share your improvements, and help us raise the floor of AI collaboration for everyone.
+Join us in building this future. Fork Claraforge, adapt it to your needs, share your improvements, and help us raise the floor of AI collaboration for everyone.
 
 ---
 
@@ -270,7 +270,7 @@ Join us in building this future. Fork Claraverse, adapt it to your needs, share 
 - **Growing** Community of Advanced AI Practitioners
 - **MIT** Licensed for Maximum Freedom
 
-### *Made with 🧠 and ✨ by the Claraverse Community*
+### *Made with 🧠 and ✨ by the Claraforge Community*
 
 ---
 

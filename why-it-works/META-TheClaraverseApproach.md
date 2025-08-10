@@ -1,4 +1,4 @@
-# The Claraverse Approach – Where Method Meets Mayhem
+# The Claraforge Approach – Where Method Meets Mayhem
 
 > *Think of this as the director’s commentary: how we smash philosophy, process, and unapologetic personality into one fork‑magnet of a repo—and why that cocktail beats sterile best‑practice PDFs every day of the week.*
 
@@ -6,7 +6,7 @@
 
 ## 0. The Rebel Premise
 
-Most knowledge projects worship order. Claraverse worships **momentum**.  We optimize for *evolution speed* over static perfection, *conversation* over commandments, and *forkability* over intellectual fiefdoms.
+Most knowledge projects worship order. Claraforge worships **momentum**.  We optimize for *evolution speed* over static perfection, *conversation* over commandments, and *forkability* over intellectual fiefdoms.
 
 > **Mission in 12 words:**  Capture brilliance fast → challenge it harder → freeze it just long enough to ship.
 
@@ -20,7 +20,7 @@ Most knowledge projects worship order. Claraverse worships **momentum**.  We opt
 
 ---
 
-## 2. The “Claraverse Spiral” (Think Agile, but Sarcastic)
+## 2. The “Claraforge Spiral” (Think Agile, but Sarcastic)
 
 ```plaintext
 Argue → Distill → Spec → Ship → Meme → Argue…
@@ -89,8 +89,8 @@ Rinse, remix, repeat—then brag on socials with a meme. Tag @Clara if you dare.
 
 > *“We’re not iterating on docs.  We’re iterating on *thinking*—and that should never sit still.”*
 
-Welcome to the Claraverse Approach.  If it feels a bit unruly, good.  That means it’s alive.
+Welcome to the Claraforge Approach.  If it feels a bit unruly, good.  That means it’s alive.
 
 ---
 
-*File location: `why-it-works/META-TheClaraverseApproach.md`*
+*File location: `why-it-works/META-TheClaraforgeApproach.md`*

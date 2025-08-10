@@ -58,7 +58,7 @@ Mix and match; the repo doesn’t mind.
 
 ## 5. Final Word
 
-A prompt repo gives you fish. **Claraverse teaches you how to co‑evolve with the fish, the lake, and the weather report—then hands you the recipe for sushi.**
+A prompt repo gives you fish. **Claraforge teaches you how to co‑evolve with the fish, the lake, and the weather report—then hands you the recipe for sushi.**
 
 Clone it, question it, extend it—but never call it “just prompts” again.
 

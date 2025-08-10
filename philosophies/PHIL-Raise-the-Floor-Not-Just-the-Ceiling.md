@@ -9,7 +9,7 @@ Your years of late-night experiments, hard-won lessons, spectacular faceplants, 
 * Don’t just publish your “greatest hits.” Share your methods, missteps, corrections, and *philosophies*—the stuff that let you climb, fall, and climb again.
 * Your apex shouldn’t be a monument. It should be a launchpad.
 
-**What does this look like in the Claraverse?**
+**What does this look like in the Claraforge?**
 
 * Open sourcing not just your final products, but your process and your *thinking*.
 * Building a repo where your best practices, your signature workflows, and even your evolving philosophies are artifacts anyone can fork, remix, and improve.
@@ -27,7 +27,7 @@ True legacy isn’t about how high you climbed, but about how high others can st
 
 ---
 
-And remember, the next time you achieve something great, don’t just celebrate it. Share the whole story—the struggles, the breakthroughs, the philosophy that got you there. You might just inspire the next generation to reach even higher than you did. After all, in the Claraverse, we’re not just raising ceilings; we’re raising floors for everyone.
+And remember, the next time you achieve something great, don’t just celebrate it. Share the whole story—the struggles, the breakthroughs, the philosophy that got you there. You might just inspire the next generation to reach even higher than you did. After all, in the Claraforge, we’re not just raising ceilings; we’re raising floors for everyone.
 
 ---
 

@@ -1,12 +1,12 @@
-# WhyItWorks Learning Model – How Claraverse Teaches Itself (and You)
+# WhyItWorks Learning Model – How Claraforge Teaches Itself (and You)
 
-> *A repo that just sits there is a museum. Claraverse is a dojo—every commit a new sparring match in the art of thinking with AI.*
+> *A repo that just sits there is a museum. Claraforge is a dojo—every commit a new sparring match in the art of thinking with AI.*
 
 ---
 
 ## 0. Why This Doc Exists
 
-People see the philosophies, the prompts, the meta docs and ask, “Great, but how does all this *improve* over time?”  **Answer:** Claraverse is wired with a built‑in learning model—capturing feedback, versioning insight, and auto‑up‑skilling every fork.  This file is the blueprint.
+People see the philosophies, the prompts, the meta docs and ask, “Great, but how does all this *improve* over time?”  **Answer:** Claraforge is wired with a built‑in learning model—capturing feedback, versioning insight, and auto‑up‑skilling every fork.  This file is the blueprint.
 
 ---
 
@@ -96,7 +96,7 @@ PRs welcome—just remember: a learning repo never sleeps.
 
 ## 8. Final Rally
 
-Tools age. **Learning systems evolve.** Claraverse eats feedback for breakfast and spits out smarter defaults by lunch. Fork it, feed it data, and watch both of you get sharper every release cycle.
+Tools age. **Learning systems evolve.** Claraforge eats feedback for breakfast and spits out smarter defaults by lunch. Fork it, feed it data, and watch both of you get sharper every release cycle.
 
 *Your brain upgrades daily—your repo should too.*
 

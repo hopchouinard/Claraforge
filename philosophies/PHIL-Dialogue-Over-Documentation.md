@@ -4,7 +4,7 @@ Let’s be honest: walls of text are where good ideas go to die. Documentation i
 
 Humans are wired for conversation. We remember stories, debates, and witty exchanges long after we’ve forgotten bullet points and dry prose. That’s why, when it comes to transferring knowledge, onboarding new collaborators, or making complex ideas digestible, nothing beats a real, lively discussion.
 
-**What does this look like in the Claraverse?**
+**What does this look like in the Claraforge?**
 
 * Instead of expecting people to wade through endless README files, offer them a podcast or audio debate that breaks down the core ideas.
 * Turn dense methodology into an engaging back-and-forth—clarifying, challenging, and expanding on key points in real time.
