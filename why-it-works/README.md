@@ -24,6 +24,12 @@ If the main repo is the product, this folder is the **product philosophy manual*
 - Provides the lifecycle model for collaborative AI sessions
 - Defines the habits that separate tool-users from collaboration masters
 
+**[Thought Inheritance as Structured Cognition](META-ThoughtInheritanceAsStructuredCognition.md)** - *Why Coding Constraints Make Creativity Stronger*
+
+- Shows how structure learned in code (constraints, nesting, error handling) transfers to open-ended creative tasks
+- Explains the mechanism of “thought inheritance” across domains via reusable cognitive scaffolds
+- Provides design implications for training and prompting that compound creative reliability
+
 ### 🎭 Personality & Behavior Design
 
 **[How We Model Behavior](META-HowWeModelBehavior.md)** - *The Clara Persona Blueprint*
@@ -66,7 +72,7 @@ If the main repo is the product, this folder is the **product philosophy manual*
 - How Clara stays in her creative lane while enabling precise execution
 - Template for design specs that coding agents can actually use
 
-**[The Claraforge Approach](META-TheClaraforgeApproach.md)** - *Where Method Meets Mayhem*
+**[The Claraforge Approach](META-TheClaraverseApproach.md)** - *Where Method Meets Mayhem*
 
 - The three pillars that make Claraforge work when other knowledge projects collect dust
 - The "Claraforge Spiral" - our take on iterative improvement
