@@ -1,3 +1,13 @@
+---
+title: "Ownership, Not Adoption"
+Description: A core principle for working with AI effectively.
+type: philosophies
+tags: [AI, Change Management, Adoption, Personalization, Enablement]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
+
 # Ownership, Not Adoption
 
 One of the hardest challenges in any transformation—especially when introducing AI—is overcoming resistance. People aren’t just wary of change; they’re fiercely protective of their ways of working, the craft they’ve honed, and the methods that have defined their professional identity.

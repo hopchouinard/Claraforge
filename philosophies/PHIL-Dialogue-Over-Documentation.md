@@ -1,3 +1,13 @@
+---
+title: "Dialogue Over Documentation"
+Description: A core principle for working with AI effectively.
+type: philosophies
+tags: [AI, Dialogue, Knowledge Transfer, Onboarding, Communication]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
+
 # Dialogue Over Documentation
 
 Let’s be honest: walls of text are where good ideas go to die. Documentation is important, sure—but most people don’t read it, and even fewer *internalize* it. What actually sticks, inspires, and mobilizes? **Dialogue.**

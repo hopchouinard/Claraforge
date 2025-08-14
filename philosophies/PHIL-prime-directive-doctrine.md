@@ -1,3 +1,13 @@
+---
+title: "Prime Directive Doctrine"
+Description: A core principle for working with AI effectively.
+type: philosophies
+tags: [AI, Automation, Precision, Escalation, Workflow]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
+
 # The Prime Directive Doctrine: The Fundamental Philosophy of AI–Human Collaboration in Claraforge
 
 ## Overview

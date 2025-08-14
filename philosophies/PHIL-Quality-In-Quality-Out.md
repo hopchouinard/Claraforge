@@ -1,3 +1,13 @@
+---
+title: "Quality In, Quality Out"
+Description: A core principle for working with AI effectively.
+type: philosophies
+tags: [AI, Prompting, Input Quality, Clarity, Results]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
+
 # Quality In, Quality Out
 
 If there’s one immutable law of working with AI (or honestly, anything with a brain), it’s this: **You get back what you put in.** The clarity, depth, and focus of your question or prompt is directly reflected in the quality of the answer you’ll receive. AI isn’t magic—it’s math, pattern recognition, and, at its core, a mirror for your thinking.

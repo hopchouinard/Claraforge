@@ -1,3 +1,13 @@
+---
+title: "Raise the Floor, Not Just the Ceiling"
+Description: A core principle for working with AI effectively.
+type: philosophies
+tags: [AI, Knowledge Sharing, Onboarding, Open Source, Enablement]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
+
 # Raise the Floor, Not Just the Ceiling
 
 Most people chase “innovation” by aiming for the stars, obsessed with raising the ceiling—making the best even better, chasing that one dazzling breakthrough. But the real game-changer in AI collaboration isn’t just about outdoing yourself; it’s about making your *current* level the new starting line for everyone who comes after.

@@ -1,3 +1,13 @@
+---
+title: Collaboration, Not Dictation
+Description: Embracing AI as a creative partner rather than a tool for commands.
+type: philosophies
+tags: [AI, Collaboration, Innovation]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
+
 # Collaboration, Not Dictation
 
 The secret to real breakthroughs with AI isn’t barking orders at a bot—it’s embracing true, spirited collaboration. Treating your AI assistant like a code monkey or magic 8-ball is a surefire way to end up disappointed, underwhelmed, or outright frustrated. If you want extraordinary results, you need to make the AI your sparring partner, not your secretary.

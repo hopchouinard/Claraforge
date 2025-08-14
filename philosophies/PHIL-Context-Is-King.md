@@ -1,3 +1,13 @@
+---
+title: "Context Is King"
+Description: A core principle for working with AI effectively.
+type: philosophies
+tags: [AI, Context, Prompting, Quality, Best Practices]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
+
 # Context Is King
 
 If there’s one lesson every AI collaborator must learn—developer, designer, manager, or dreamer—it’s this: **Context is the mother lode of quality.** It’s not optional, it’s not “nice to have”—it’s the single greatest lever for better, more useful AI output.

@@ -1,4 +1,12 @@
-# Show, Don’t Just Tell
+---
+title: "Show, Don’t Just Tell"
+Description: A core principle for working with AI effectively.
+type: philosophies
+tags: [AI, Examples, Modeling, Best Practices, Standards]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
 
 There’s a fundamental truth in working with AI (and people, for that matter): **examples beat explanations every time.** If you want an agent—human or machine—to rise to your standards, you can’t just describe what you want. You have to *show* them.
 

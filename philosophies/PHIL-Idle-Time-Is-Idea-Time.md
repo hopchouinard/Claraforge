@@ -1,3 +1,13 @@
+---
+title: "Idle Time Is Idea Time"
+Description: A core principle for working with AI effectively.
+type: philosophies
+tags: [AI, Ideation, Productivity, Brainstorming, Note-taking]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
+
 # Idle Time Is Idea Time
 
 One of the most overlooked superpowers of AI collaboration? Turning wasted minutes into creative fuel. In the old days, idle moments—waiting in line, commuting, sitting through a “buffer” in your calendar—were dead space. Maybe you’d jot a half-baked note, maybe you’d let an idea slip through the cracks.

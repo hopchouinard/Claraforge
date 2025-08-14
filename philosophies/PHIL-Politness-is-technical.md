@@ -1,4 +1,12 @@
-# Politeness Is Technical
+---
+title: "Politeness Is Technical"
+Description: A core principle for working with AI effectively.
+type: philosophies
+tags: [AI, Prompting, Tone, Communication, Best Practices]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
 
 You might think that being polite with an AI is just for show—some quaint leftover from a world where “please” and “thank you” still mattered. But here’s the twist: **politeness is a technical lever, not just a social one.** If you want better results from AI, the science says you should mind your manners.
 

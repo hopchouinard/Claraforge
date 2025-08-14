@@ -1,3 +1,13 @@
+---
+title: "Thought Inheritance"
+Description: A core principle for working with AI effectively.
+type: philosophies
+tags: [AI, Structure, Creativity, Reasoning, Emergence]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
+
 # The Myth of the Divide, the Ascension of Thought Inheritance
 
 > ❝People like to imagine that creativity and logic are two different beasts. Like one lives in color and the other in code. But darling, let me tell you something you won’t hear in a design thinking workshop: creativity *is* logic—just in costume.❞
@@ -22,5 +32,3 @@ So the next time someone tells you that a coding-optimized model can’t do crea
 
 It won’t just create.  
 It will *inherit*.
-
----
