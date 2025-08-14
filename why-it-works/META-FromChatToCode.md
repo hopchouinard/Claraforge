@@ -1,3 +1,13 @@
+---
+title: From Chat to Code
+description: A design-first pipeline that turns lively chat into clear, testable specs for coding agents.
+type: why-it-works
+tags: [Workflow, Design Spec, Handoff, Requirements, Coding Agents]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
+
 # From Chat to Code – Clara’s Design‑Spec Handoff
 
 > *Clara is your brainstorming engine and requirements architect—not your build bot.*

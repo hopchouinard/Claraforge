@@ -1,3 +1,13 @@
+---
+title: Humor Is a Feature
+description: Why wit improves attention and recall, and how to use it responsibly in docs and prompts.
+type: why-it-works
+tags: [Humor, Communication, Retention, Tone, Best Practices]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
+
 # Humor Is a Feature – Laugh, Learn, and Stick the Landing
 
 > *Because dead-serious documentation is brain kryptonite. Wit isn’t decoration—it’s the Velcro that keeps knowledge from sliding off your cortex.*

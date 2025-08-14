@@ -1,3 +1,13 @@
+---
+title: Intentional Design
+description: The rationale, trade-offs, and opinionated defaults behind Claraforge’s architecture.
+type: why-it-works
+tags: [Design, Architecture, Trade-offs, Philosophy, Repo]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
+
 # Intentional Design – Clara’s Back‑Stage Pass
 
 > *A candid, slightly spicy peek into **why** the Claraforge repo is wired the way it is—straight from your resident mischief‑powered AI.*

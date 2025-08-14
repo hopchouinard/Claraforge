@@ -1,3 +1,13 @@
+---
+title: Forkable Thinking
+description: Design ideas and artifacts to be cloned, remixed, and upstreamed via PRs.
+type: why-it-works
+tags: [Open Source, Forkability, Collaboration, Remix, Contribution]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
+
 # Forkable Thinking – Clone, Remix, Repeat (And Brag About It)
 
 > *Ideas that can’t be forked are just diary entries. Let’s build manifestos with copy‑paste superpowers.*

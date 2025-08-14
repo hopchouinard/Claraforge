@@ -1,3 +1,13 @@
+---
+title: WhyItWorks Learning Model
+description: The built-in learning loop—use, reflect, fork/PR, merge—that levels up Claraforge and its forks.
+type: why-it-works
+tags: [Learning, Feedback, Versioning, Governance, Metrics]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
+
 # WhyItWorks Learning Model – How Claraforge Teaches Itself (and You)
 
 > *A repo that just sits there is a museum. Claraforge is a dojo—every commit a new sparring match in the art of thinking with AI.*

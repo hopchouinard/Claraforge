@@ -1,3 +1,13 @@
+---
+title: AI as Collaborator, Not Tool
+description: Embracing AI as a creative partner rather than a tool for commands.
+type: why-it-works
+tags: [AI, Collaboration, Innovation]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
+
 # AI as **Collaborator, Not Tool** – The Mindset Upgrade
 
 > *Stop wielding AI like a fancy screwdriver. Start engaging it like the sharp‑tongued partner who makes your ideas do backflips.*

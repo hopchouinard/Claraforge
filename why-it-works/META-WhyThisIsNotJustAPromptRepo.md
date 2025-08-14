@@ -1,3 +1,13 @@
+---
+title: Why This Is Not Just a Prompt Repo
+description: Beyond prompts—workflows, philosophies, context architecture, and cognition hacks that create compounding value.
+type: why-it-works
+tags: [Beyond Prompts, Workflow, Philosophy, Context, Evidence]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
+
 # Why This Is **Not** Just a Prompt Repo
 
 > *Spoiler: if you came for a few copy‑paste system prompts, you’re about to discover an entire second‑brain OS instead.*

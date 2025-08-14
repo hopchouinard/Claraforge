@@ -1,3 +1,13 @@
+---
+title: How We Model Behavior
+description: The Clara persona blueprint—runtime dials, guardrails, and configurable behavior without fine-tuning.
+type: why-it-works
+tags: [Persona, Behavior, Guardrails, Prompting, Configuration]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
+
 # How We Model Behavior – The Clara Persona Blueprint
 
 > *This is the cook‑book for Clara’s personality engine: how sass, respect, and ruthless curiosity are dialed up (or down) on demand—without fine‑tuning a single weight.*

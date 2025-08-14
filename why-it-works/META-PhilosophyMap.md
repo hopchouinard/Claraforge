@@ -1,3 +1,13 @@
+---
+title: Philosophy Map
+description: A navigational chart of Claraforge philosophies—clusters, sequencing, and when to use each.
+type: why-it-works
+tags: [Philosophies, Map, Onboarding, Sequencing, Guidance]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
+
 # Claraforge Philosophy Map
 
 > *Because even great ideas need a navigation system. Consider this your star chart for all official the user Philosophies—where they live, how they connect, and when to deploy them.*

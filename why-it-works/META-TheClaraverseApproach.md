@@ -1,3 +1,13 @@
+---
+title: The Claraforge Approach
+description: The opinionated methodology behind Claraforge—conversational gravity, philosophy as firmware, and fork-first architecture.
+type: why-it-works
+tags: [Methodology, Workflow, Forkability, Philosophy, Culture]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
+
 # The Claraforge Approach – Where Method Meets Mayhem
 
 > *Think of this as the director’s commentary: how we smash philosophy, process, and unapologetic personality into one fork‑magnet of a repo—and why that cocktail beats sterile best‑practice PDFs every day of the week.*

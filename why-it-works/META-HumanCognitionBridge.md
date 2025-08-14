@@ -1,3 +1,13 @@
+---
+title: Human Cognition Bridge
+description: Cognitive principles behind Claraforge—attention, humor, chunking, and context for durable learning.
+type: why-it-works
+tags: [Cognition, Learning, Attention, Humor, UX]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
+
 # Human Cognition Bridge – How Claraforge Hacks Your Brain (for Good)
 
 > *The repo is code.  The philosophies are operating system.  **This** file is the neural adapter that lets the two plug straight into wetware.*

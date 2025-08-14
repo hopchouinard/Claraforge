@@ -1,3 +1,13 @@
+---
+title: Audio README Strategy
+description: Turn dense READMEs into short podcast debates for accessibility, retention, and faster onboarding.
+type: why-it-works
+tags: [Audio, Documentation, Accessibility, Onboarding, Podcasts]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
+
 # Audio README Strategy – When Reading Is Too 20th‑Century
 
 > *Some people skim docs. Others binge podcasts. So we turned our README into a talk‑show. You’re welcome.*

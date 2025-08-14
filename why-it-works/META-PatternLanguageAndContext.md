@@ -1,3 +1,13 @@
+---
+title: Pattern Language and Context
+description: Naming conventions and context-stacking rules that supercharge discoverability and reuse.
+type: why-it-works
+tags: [Patterns, Naming, Context, Discoverability, Conventions]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
+
 # Pattern Language & Context – Naming Things (So Your Brain Doesn’t Implode)
 
 > *Design is 50 % architecture and 50 % choosing labels that future‑you can actually remember. This doc is the Rosetta Stone for Claraforge pattern names and the context‑stacking rules behind them.*

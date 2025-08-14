@@ -1,3 +1,13 @@
+---
+title: Thought Inheritance as Structured Cognition
+description: Why coding-optimized models excel at creative structure—emergent narrative logic from layered constraints.
+type: why-it-works
+tags: [Thought Inheritance, Structure, Creativity, Reasoning, Agents]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
+
 # 🧪 Why It Works: Thought Inheritance as Structured Cognition
 
 What makes this principle more than just a clever metaphor? Why does a model trained to write code suddenly become *better* at creative writing, narrative structure, and recursive fiction?

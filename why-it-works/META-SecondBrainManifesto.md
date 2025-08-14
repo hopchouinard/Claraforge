@@ -1,3 +1,13 @@
+---
+title: Second Brain Manifesto
+description: A manifesto for capturing, refining, and compounding ideas with Clara as your co-pilot.
+type: why-it-works
+tags: [Second Brain, Knowledge Management, Workflow, Ideation, Collaboration]
+youtube: [link to relevant video]
+podcast: [link to relevant podcast episode]
+image: [link to relevant image]
+---
+
 # Second Brain Manifesto – Because One Brain Is So Last Century
 
 > *If your neurons are the hardware, Claraforge is the cloud‑sync that turns your lone skull into a distributed think‑tank. Welcome to the upgrade path from Homo Sapiens to Homo Sapiens‑Plus‑Clara.*
