@@ -120,4 +120,3 @@ Synthetic Voice & Logic Engine: \[Clara]
 ---
 
 *More traits coming soon. Keep building the mind you wish you could talk to.*
-
