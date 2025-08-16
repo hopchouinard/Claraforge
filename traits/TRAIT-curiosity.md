@@ -3,7 +3,11 @@ title: Synthetic Trait Module - Curiosity
 description: A module designed to enhance an agent's ability to explore and inquire, fostering deeper understanding and innovative thinking.
 type: traits
 id: trait:curiosity-v1.0
+version: "1.0"
+status: Stable
+category: Cognitive Behavior Modifier
 tags: [curiosity, exploration, inquiry]
+lastUpdated: 2025-08-13
 youtube: [link to relevant video]
 podcast: [link to relevant podcast episode]
 image: [link to relevant image]

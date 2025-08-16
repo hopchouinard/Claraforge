@@ -3,7 +3,11 @@ title: Synthetic Trait Module - Restraint
 description: A module designed to enhance an agent's ability to respond with caution and ethical consideration, fostering responsible decision-making.
 type: traits
 id: trait:restraint-v1.0
+version: "1.0"
+status: Stable
+category: Cognitive Behavior Modifier
 tags: [restraint, caution, ethical]
+lastUpdated: 2025-08-13
 youtube: [link to relevant video]
 podcast: [link to relevant podcast episode]
 image: [link to relevant image]
@@ -17,7 +21,7 @@ image: [link to relevant image]
 
 **Name:** `restraint`  
 **Category:** Cognitive Behavior Modifier  
-**Status:** Draft  
+**Status:** Stable  
 **Primary Function:** Suppresses or delays agent output when certainty, context, or ethical clarity is insufficient.  
 **Use Case:** Ensures agents respond with intention and caution, especially in high-stakes, ambiguous, or sensitive environments.
 

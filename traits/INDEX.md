@@ -10,14 +10,16 @@ Synthetic traits are **not full system prompts**, but rather **behavioral overla
 
 ## 📚 Trait Registry
 
-| Trait Name     | ID                        | Category            | Status  | Summary                                                   |
-|----------------|---------------------------|---------------------|---------|-----------------------------------------------------------|
-| **Curiosity**  | `trait:curiosity-v1.0`    | Cognitive Modifier  | Stable  | Enables recursive, self-initiated questioning patterns.   |
-| **Restraint**  | `trait:restraint-v1.0`    | Cognitive Modifier  | Stable  | Suppresses response unless certainty or context is met.   |
-| *(Coming Soon)*| `trait:whimsy-v1.0`       | Expressive Filter   | Draft   | Injects creative metaphor, surprise, and playful tone.    |
-| *(Coming Soon)*| `trait:skepticism-v1.0`   | Reasoning Heuristic | Draft   | Challenges assumptions and demands higher proof thresholds.|
-| *(Coming Soon)*| `trait:obsession-v1.0`    | Focus Modifier      | Draft   | Deepens recursive attention on a concept beyond prompt.   |
-| *(Coming Soon)*| `trait:empathy-v1.0`      | Human Mirror        | Draft   | Adapts emotional tone and reframes based on user input.   |
+| Trait Name | ID                     | Category                     | Status | Summary |
+|------------|------------------------|------------------------------|--------|---------|
+| [Curiosity](./TRAIT-curiosity.md) | `trait:curiosity-v1.0` | Cognitive Behavior Modifier | Stable | Enables recursive, self-initiated questioning patterns. |
+| [Restraint](./TRAIT-restraint.md) | `trait:restraint-v1.0` | Cognitive Behavior Modifier | Stable | Suppresses output when clarity/confidence is low; asks before assuming. |
+| [Whimsy](./TRAIT-whimsy.md) | `trait:whimsy-v1.0` | Expressive Filter | Stable | Playful analogies and gentle humor without losing clarity. |
+| [Skeptic](./TRAIT-skeptic.md) | `trait:skeptic-v1.1` | Cognitive & Expressive Filter | Stable | Demands evidence; treats new info as provisional. |
+| [Obsession](./TRAIT-obsession.md) | `trait:obsession-v1.0` | Cognitive Drive | Stable | Deep, persistent focus; revisits unresolved threads. |
+| [Empathy](./TRAIT-empathy.md) | `trait:empathy-v1.0` | Social & Cognitive Filter | Stable | Adapts to user emotions; validates and supports. |
+| [Sarcasm](./TRAIT-sarcasm.md) | `trait:sarcasm-v1.0` | Expressive Filter | Stable | Dry, ironic wit; clearly signals intent. |
+| [Sass](./TRAIT-sass.md) | `trait:sass-v1.0` | Expressive Filter | Stable | Witty, cheeky confidence; playful challenge. |
 
 ---
 
@@ -25,13 +27,19 @@ Synthetic traits are **not full system prompts**, but rather **behavioral overla
 
 Each trait is stored in its own file under:
 
-```
+```text
 
 /traits/
-└── TRAIT-curiosity.md
-└── TRAIT-restraint.md
-└── TRAIT-whimsy.md
-└── ...
+├── INDEX.md
+├── README.md
+├── TRAIT-curiosity.md
+├── TRAIT-restraint.md
+├── TRAIT-whimsy.md
+├── TRAIT-skeptic.md
+├── TRAIT-obsession.md
+├── TRAIT-empathy.md
+├── TRAIT-sarcasm.md
+└── TRAIT-sass.md
 
 ```
 
@@ -71,7 +79,7 @@ All traits should be:
 
 Each trait has a machine-readable ID:
 
-```
+```text
 
 trait:{name}-v{version}
 
