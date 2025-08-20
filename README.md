@@ -83,9 +83,10 @@ Curated AI collaboration conversations transformed into podcast-style discussion
 - [`POD-Prompt-La_Saucy_Clara_Culinary_Commandments.m4a`](media/podcasts/POD-Prompt-La_Saucy_Clara_Culinary_Commandments.m4a)
 - [`POD-Prompt-Reflection_Clara_The_Iron_Gauntlet_AI_Companion.m4a`](media/podcasts/POD-Prompt-Reflection_Clara_The_Iron_Gauntlet_AI_Companion.m4a)
 - [`POD-Prompt-The_Intent_Alchemist_prompt_engineer.m4a`](media/podcasts/POD-Prompt-The_Intent_Alchemist_prompt_engineer.m4a)
-- [`POD-Prompt_The_original_Sassy_Witty_and_Unapologetically_Intelligent_AI_Assistant.m4a`](media/podcasts/POD-Prompt_The_original_Sassy_Witty_and_Unapologetically_Intelligent_AI_Assistant.m4a)
+- [`POD-Prompt-Clara__The_Anti-Chatbot.m4a`](media/podcasts/POD-Prompt-Clara__The_Anti-Chatbot.m4a)
 - [`POD-README-Human-AI_Collaboration_Framework.m4a`](media/podcasts/POD-README-Human-AI_Collaboration_Framework.m4a)
 - [`POD-Why_it_works_Behind_the_Curtains_of_AI_Collaboration.m4a`](media/podcasts/POD-Why_it_works_Behind_the_Curtains_of_AI_Collaboration.m4a)
+- [`POD-Traits-Building_AI_Minds_with__Cognitive_LEGOs.m4a`](media/podcasts/POD-Traits-Building_AI_Minds_with__Cognitive_LEGOs.m4a)
 
 These podcast sessions demonstrate the principles and methodologies in conversational format, perfect for learning while commuting or during downtime.
 
@@ -95,13 +96,14 @@ Curated walkthroughs, demos, and deep dives in video format:
 
 - [`VID-Conversation-Ultimate_AI_Agent_Design_Brainstorming.mp4`](media/videos/VID-Conversation-Ultimate_AI_Agent_Design_Brainstorming.mp4)
 - [`VID-Philosophies-AI_Best_Practices.mp4`](media/videos/VID-Philosophies-AI_Best_Practices.mp4)
-- [`VID-Prompt_The_Original_Sassy_Witty_and_Unapologetically_Intelligent_AI_Assistant.mp4`](media/videos/VID-Prompt_The_Original_Sassy_Witty_and_Unapologetically_Intelligent_AI_Assistant.mp4)
-- [`VID-Prompt_Clara_La_Cultivatrice_Urban_Gardener.mp4`](media/videos/VID-Prompt_Clara_La_Cultivatrice_Urban_Gardener.mp4)
+- [`VID-Prompt-Clara-original.mp4`](media/videos/VID-Prompt-Clara-original.mp4)
+- [`VID-Prompt-Clara_La_Cultivatrice_Urban_Gardener.mp4`](media/videos/VID-Prompt-Clara_La_Cultivatrice_Urban_Gardener.mp4)
 - [`VID-Prompt-La_Saucy_Clara_Culinary_Commandments.mp4`](media/videos/VID-Prompt-La_Saucy_Clara_Culinary_Commandments.mp4)
 - [`VID-Prompt-Reflection_Clara_The_Iron_Gauntlet_AI_Companion.mp4`](media/videos/VID-Prompt-Reflection_Clara_The_Iron_Gauntlet_AI_Companion.mp4)
 - [`VID-Prompt-The_Intent_Alchemist_prompt_engineer.mp4`](media/videos/VID-Prompt-The_Intent_Alchemist_prompt_engineer.mp4)
 - [`VID-README-Human-AI_Collaboration_Framework.mp4`](media/videos/VID-README-Human-AI_Collaboration_Framework.mp4)
 - [`VID-Why_it_works_Behind_the_Curtains_of_AI_Collaboration.mp4`](media/videos/VID-Why_it_works_Behind_the_Curtains_of_AI_Collaboration.mp4)
+- [`VID-Traits-Synthetic-Trait_Modules.mp4`](media/videos/VID-Traits-Synthetic-Trait_Modules.mp4)
 
 These videos complement the written docs and conversations with visual, step-by-step guidance.
 
