@@ -40,9 +40,7 @@ Complexity is not the enemy. It is fuel.
 ## Axioms
 
 > "Complexity doesn't vanish. It moves."
-
 > "Placed fuel is power."
-
 > "Memory is cheap for silicon, costly for neurons. Judgment is costly for silicon, natural for humans. Allocate wisely."
 
 ## Examples: human vs machine duties

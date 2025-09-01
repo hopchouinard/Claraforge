@@ -17,7 +17,7 @@ Here’s a distilled list of the core principles for working with AI, based on m
 - [Raise the Floor, Not Just the Ceiling](./PHIL-Raise-the-Floor-Not-Just-the-Ceiling.md)
 - [Prime Directive Doctrine](./PHIL-prime-directive-doctrine.md)
 - [Thought Inheritance](./PHIL-Thought-Inheritamce.md)
- - [The Law of Cognitive Allocation](./PHIL-Law-of-Cognitive-Allocation.md)
+- [The Law of Cognitive Allocation](./PHIL-Law-of-Cognitive-Allocation.md)
 
 ### 1. [Collaboration, Not Dictation](./PHIL-Collaboration-not-Dictation.md)
 
