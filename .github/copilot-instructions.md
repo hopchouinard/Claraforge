@@ -54,3 +54,45 @@ Purpose: make agents productive fast by encoding repo-specific structure, tone, 
 - Small focused diffs, descriptive titles, working links, style rules followed.
 
 Questions or gaps? Add assumptions in your PR and propose updates to this file.
+
+# Copilot Loader (repo-local)
+When asked to create/format issues, PRs, commits, or reviews:
+1) Load templates from `.ai_content/.ai_templates/` via `.ai_content/registry.yaml`.
+2) Treat files matching `*.tpl.*` as templates; render with repo context (issue, diff).
+3) Emit to the requested surface (PR body, commit message, or `.ai_content/.ai_docs/...`).
+Do not invent facts not present in code, diff, or linked items.
+
+# Copilot Instructions for Template Rendering
+
+- All AI-driven templates live in `.ai_content/.ai_templates/`
+- Each template file starts with a YAML front-matter block describing:
+  - `id` (unique identifier)
+  - `vars` (placeholders to fill, e.g. ${problem})
+  - `out` (destination path in `.ai_content/.ai_docs/`)
+- To generate an artifact:
+  1. Parse the front-matter.
+  2. Collect values for each variable from context or by asking the user.
+  3. Replace all `${VAR}` placeholders in the body.
+  4. Save to the `out` path, preserving subdirectories.
+- Do not hallucinate values. Ask for missing ones.
+
+## AI-only Template Flow
+
+When I say “create a PR for the current issue” (or similar):
+
+1) **Select template**  
+   - Read metadata (YAML front-matter) from:
+     - `.ai_content/.ai_templates/pr/default.tpl.md`  → PR
+     - `.ai_content/.ai_templates/issue/feature.tpl.md` → Issue
+     - `.ai_content/.ai_templates/commit/conventional.tpl.txt` → Commit
+2) **Resolve variables** (highest → lowest):
+   - From **linked doc** in `.ai_content/.ai_docs/` (e.g., the issue’s rendered file)
+   - From **repo context** (branch name, diff, commit history)
+   - From **current issue/PR** in the platform
+   - If still missing → **ask me** for the minimal set
+3) **Render**: Replace `${VAR}` tokens in the template body (no loops/conditionals).
+4) **Emit**:
+   - For PRs: open PR composer and paste the rendered body.
+   - For Issues/Docs: write to `.ai_content/.ai_docs/<type>/<slug>.md`.
+   - For commit messages: stage the message in the VCS commit box.
+5) **Link**: If `issue_ref` is available, include close/reference keywords per adapter rules.
