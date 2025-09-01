@@ -1,0 +1,1 @@
+Can you analyze the issue : https://github.com/hopchouinard/Claraforge/issues/1 and review #codebase to create a detailed plan of what you would need to do to complete this issue and create the file '01-task-Canonize_law_of_cognitive_allocation.md' in the path 'Claraforge/.ai_content/.ai_docs/tasks'
