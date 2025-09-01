@@ -1,0 +1,33 @@
+# .ai_content/registry.yaml
+discovery:
+  include: [".ai_content/.ai_templates/**/*.tpl.*"]
+  exclude: [".ai_content/.ai_templates/_adapters/**"]
+  id_rule:
+    pattern: "{top}.{name}"
+  tokens:
+    top_from:  "\\.ai_templates/(.*?)/"
+    name_from: "/([^/]+)\\.tpl\\.[^.]+$"
+    ext_from:  "\\.tpl\\.([^.]+)$"
+
+defaults:
+  vars: []
+  adapter: "github"
+  render: { engine: "mustache", allow_unset: false }
+
+overrides:
+  pr.default:
+    vars: [issue_ref, outcome, risk, has_migrations, "changes[]"]
+    description: "Standard PR body from Issue → PR mapping"
+  issue.feature:
+    vars: [problem, "acceptance[]", "risk?", "notes?"]
+  commit.conventional:
+    vars: [type, scope, summary, "bullets[]", "refs[]"]
+
+adapters:
+  github: { issue_link: "Fixes #{n}", ref_syntax: "Refs #{n}" }
+  gitlab: { issue_link: "Closes #{n}", ref_syntax: "Related to #{n}" }
+  azure:  { issue_link: "AB#{n}",     ref_syntax: "Refs AB#{n}" }
+
+validation:
+  require_ids: ["pr.default", "issue.feature", "commit.conventional"]
+  forbid_empty_vars: true

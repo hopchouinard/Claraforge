@@ -1,0 +1,27 @@
+---
+id: commit.conventional
+description: "Conventional Commit message derived from PR/issue + diff."
+vars:
+  type:
+    - from: infer.diff_type
+    - from: ask
+  scope:
+    - from: infer.changed_path
+    - from: ask
+  summary:
+    - from: pr.summary.line1
+    - from: issue.doc[problem]
+    - from: ask
+  bullets:
+    - from: diff.summary      # Provide pre-joined lines for portability
+  refs:
+    - from: pr.issue_ref
+    - from: issue.doc[slug]
+usage: >
+  Compose a Conventional Commit from the upstream context. Keep summary ≤ 72 chars.
+---
+
+${type}(${scope}): ${summary}
+
+${bullets}
+Refs #${refs}
