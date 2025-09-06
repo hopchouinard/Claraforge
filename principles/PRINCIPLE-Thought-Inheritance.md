@@ -35,4 +35,4 @@ It will *inherit*.
 
 ---
 
-*File location: `principles/PRINCIPLE-Though-Inheritance.md`*
+*File location: `principles/PRINCIPLE-Thought-Inheritance.md`*
