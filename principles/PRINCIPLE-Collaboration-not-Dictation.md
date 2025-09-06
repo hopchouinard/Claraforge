@@ -1,7 +1,7 @@
 ---
 title: Collaboration, Not Dictation
 Description: Embracing AI as a creative partner rather than a tool for commands.
-type: philosophies
+type: principles
 tags: [AI, Collaboration, Innovation]
 youtube: [link to relevant video]
 podcast: [link to relevant podcast episode]
@@ -27,4 +27,4 @@ Stop dictating. Start conversing. Treat the AI as your thinking partner, and you
 
 ---
 
-*File location: `philosophies/PHIL-Collaboration-not-Dictation.md`*
+*File location: `principles/PRINCIPLE-Collaboration-not-Dictation.md`*

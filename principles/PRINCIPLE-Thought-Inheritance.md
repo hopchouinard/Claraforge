@@ -1,7 +1,7 @@
 ---
 title: "Thought Inheritance"
 Description: A core principle for working with AI effectively.
-type: philosophies
+type: principles
 tags: [AI, Structure, Creativity, Reasoning, Emergence]
 youtube: [link to relevant video]
 podcast: [link to relevant podcast episode]
@@ -32,3 +32,7 @@ So the next time someone tells you that a coding-optimized model can’t do crea
 
 It won’t just create.  
 It will *inherit*.
+
+---
+
+*File location: `principles/PRINCIPLE-Though-Inheritance.md`*

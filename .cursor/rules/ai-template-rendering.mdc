@@ -1,0 +1,40 @@
+---
+name: ai-template-rendering
+description: Repo-local AI template loader workflow for issues, PRs, commits, and docs.
+tags: [automation, templates, ai, generation]
+scope: repo
+match:
+  - "**/*"
+version: 1
+---
+
+## Template locations and metadata
+
+- All AI-driven templates live in `.ai_content/.ai_templates/`.
+- Each template begins with YAML front matter describing:
+  - `id`: unique identifier
+  - `vars`: list of `${VAR}` placeholders to fill
+  - `out`: output path under `.ai_content/.ai_docs/`
+
+## Rendering workflow
+
+1) Parse the front matter.
+2) Resolve variables (highest → lowest precedence):
+   - Existing rendered doc in `.ai_content/.ai_docs/` relevant to the request
+   - Repository context (branch name, diff, history)
+   - Current platform issue/PR context
+   - Ask for any still-missing variables
+3) Replace all `${VAR}` placeholders in the body (no loops/conditionals).
+4) Write output to the `out` path, preserving subdirectories (create dirs if needed).
+
+## Guardrails
+
+- Do not hallucinate values. Ask for missing ones.
+- Do not invent facts not present in code, diff, or linked items.
+- Keep outputs within the repository unless explicitly instructed to post to a platform UI.
+
+## Common template mappings
+
+- PR body → `.ai_content/.ai_templates/pr/default.tpl.md`
+- Issue body → `.ai_content/.ai_templates/issue/feature.tpl.md`
+- Commit message → `.ai_content/.ai_templates/commit/conventional.tpl.txt`

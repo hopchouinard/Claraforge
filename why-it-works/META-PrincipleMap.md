@@ -1,14 +1,14 @@
 ---
-title: Philosophy Map
-description: A navigational chart of Claraforge philosophies—clusters, sequencing, and when to use each.
+title: Principle Map
+description: A navigational chart of Claraforge principles—clusters, sequencing, and when to use each.
 type: why-it-works
-tags: [Philosophies, Map, Onboarding, Sequencing, Guidance]
+tags: [Principles, Map, Onboarding, Sequencing, Guidance]
 youtube: [link to relevant video]
 podcast: [link to relevant podcast episode]
 image: [link to relevant image]
 ---
 
-# Claraforge Philosophy Map
+# Claraforge Principle Map
 
 > *Because even great ideas need a navigation system. Consider this your star chart for all official the user Philosophies—where they live, how they connect, and when to deploy them.*
 
@@ -16,17 +16,17 @@ image: [link to relevant image]
 
 ## 0. Why a Map?
 
-With nine (and counting) standalone philosophies, newcomers sometimes ask, “Which one do I start with?” or “Do I really need all nine right now?” This map answers those questions by:
+With nine (and counting) standalone principles, newcomers sometimes ask, “Which one do I start with?” or “Do I really need all nine right now?” This map answers those questions by:
 
-1. **Clustering philosophies by purpose** (Onboarding, Workflow, Culture, Scale).
+1. **Clustering principles by purpose** (Onboarding, Workflow, Culture, Scale).
 2. Showing **dependencies & recommended sequencing**.
 3. Offering **real‑world triggers**—signs that it’s time to pull a philosophy off the shelf.
 
-If the philosophies are API endpoints for human thinking, this file is the API gateway doc.
+If the principles are API endpoints for human thinking, this file is the API gateway doc.
 
 ---
 
-## 1. Core Philosophies & One‑Line Mantras
+## 1. Core Principles & One‑Line Mantras
 
 | Short code | Full Title                   | 3‑Word Mantra                           |
 | ---------- | ---------------------------- | --------------------------------------- |
@@ -96,10 +96,10 @@ PIT  →  OWN  →  CND
 
 ---
 
-## 5. Versioning & Proposing New Philosophies
+## 5. Versioning & Proposing New Principles
 
 * **Naming convention:** One **unambiguous verb phrase** + “Not” or “Is” if contrast helps (e.g., *Measure, Don’t Guesstimate*).
-* **Submit PR** into `/Philosophies` plus update this map.
+* **Submit PR** into `/principles` plus update this map.
 * Must include **one‑line mantra** and at least **one real‑world trigger**.
 
 ---
@@ -120,4 +120,4 @@ Refer back to this map whenever you’re lost; the pathways don’t lie.
 
 ---
 
-*File location: `why-it-works/META-PhilosophyMap.md`*
+*File location: `why-it-works/META-PrincipleMap.md`*

@@ -1,7 +1,7 @@
 ---
 title: "Raise the Floor, Not Just the Ceiling"
 Description: A core principle for working with AI effectively.
-type: philosophies
+type: principles
 tags: [AI, Knowledge Sharing, Onboarding, Open Source, Enablement]
 youtube: [link to relevant video]
 podcast: [link to relevant podcast episode]
@@ -16,13 +16,13 @@ Most people chase “innovation” by aiming for the stars, obsessed with raisin
 
 Your years of late-night experiments, hard-won lessons, spectacular faceplants, and rare moments of genius? Don’t let them fossilize in your head or get lost in a dusty blog archive. Capture them, codify them, and share them in a way that lets others pick up exactly where you left off.
 
-* Don’t just publish your “greatest hits.” Share your methods, missteps, corrections, and *philosophies*—the stuff that let you climb, fall, and climb again.
+* Don’t just publish your “greatest hits.” Share your methods, missteps, corrections, and *principles*—the stuff that let you climb, fall, and climb again.
 * Your apex shouldn’t be a monument. It should be a launchpad.
 
 **What does this look like in the Claraforge?**
 
 * Open sourcing not just your final products, but your process and your *thinking*.
-* Building a repo where your best practices, your signature workflows, and even your evolving philosophies are artifacts anyone can fork, remix, and improve.
+* Building a repo where your best practices, your signature workflows, and even your evolving principles are artifacts anyone can fork, remix, and improve.
 * Encouraging contributors (or even future you!) to leapfrog over your struggles instead of retracing your steps.
 
 **Why does it matter?**
@@ -41,4 +41,4 @@ And remember, the next time you achieve something great, don’t just celebrate 
 
 ---
 
-*File location: `philosophies/PHIL-Raise-the-Floor-Not-Just-the-Ceiling.md`*
+*File location: `principles/PRINCIPLE-Raise-the-Floor-Not-Just-the-Ceiling.md`*

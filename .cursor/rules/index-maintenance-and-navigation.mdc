@@ -1,0 +1,27 @@
+---
+name: index-maintenance-and-navigation
+description: Rules for keeping folder indices and navigational docs in sync.
+tags: [index, navigation, docsops]
+scope: repo
+match:
+  - "philosophies/**"
+  - "why-it-works/**"
+  - "system-prompts/**"
+  - "conversation-logs/**"
+  - "design-specs/**"
+version: 1
+---
+
+## Keep indices current
+
+- Update `philosophies/README.md` when adding or renaming a philosophy doc.
+- Update `why-it-works/README.md` when adding meta rationale docs.
+- For each persona under `system-prompts/<persona>/`, maintain a clear `README.md` that links to `system.prompt.md` and examples.
+- For `conversation-logs/<topic>/`, maintain or add `README.md` summarizing the session and linking artifacts.
+- For `design-specs/`, consider adding a top-level index if the list grows; ensure each spec is discoverable.
+
+## Link integrity
+
+- Prefer relative links.
+- Verify new or updated links render on GitHub.
+- When moving files, update all affected indices and cross-links.

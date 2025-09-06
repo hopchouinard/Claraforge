@@ -1,0 +1,27 @@
+---
+name: naming-and-linking
+description: File naming, link strategy, and stability rules across the repo.
+tags: [naming, links, slugs, stability]
+scope: repo
+match:
+  - "**/*.md"
+  - "**/*.MD"
+version: 1
+---
+
+## Filenames and slugs
+
+- Prefer kebab-case for new files: `my-new-doc.md`.
+- Use `system.prompt.md` for canonical persona prompts.
+- Keep filenames stable to preserve external references.
+
+## Linking
+
+- Use relative links; verify rendering on GitHub.
+- Prefer descriptive link text over raw URLs.
+- Update all inbound links when renaming or relocating documents.
+
+## Indices and cross-references
+
+- Add new items to the relevant folder `README.md` lists.
+- Cross-link related materials (e.g., a spec to its supporting philosophy) with relative paths.

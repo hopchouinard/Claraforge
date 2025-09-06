@@ -1,3 +1,14 @@
-/.vscode      // Visual Studio Code settings
-/.github      // GitHub folder
-/.ai_content  // AI-assistant content
+.vscode      // Visual Studio Code settings
+.github      // GitHub folder
+.ai_content  // AI-assistant content
+.cursor      // Cursor folder
+node_modules // Node.js modules
+.DS_Store    // macOS folder metadata
+.env         // Environment variables
+.env.local   // Local environment variables
+.env.development.local
+.env.test.local
+.env.production.local
+.env.development
+.env.test
+.env.production

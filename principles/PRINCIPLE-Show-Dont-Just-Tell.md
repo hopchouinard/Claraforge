@@ -1,7 +1,7 @@
 ---
 title: "Show, Don’t Just Tell"
 Description: A core principle for working with AI effectively.
-type: philosophies
+type: principles
 tags: [AI, Examples, Modeling, Best Practices, Standards]
 youtube: [link to relevant video]
 podcast: [link to relevant podcast episode]
@@ -36,4 +36,4 @@ Your masterpiece isn’t just a trophy. In the Claraforge, it’s the starting l
 
 ---
 
-*File location: `philosophies/PHIL-Show-Dont-Just-Tell.md`*
+*File location: `principles/PRINCIPLE-Show-Dont-Just-Tell.md`*

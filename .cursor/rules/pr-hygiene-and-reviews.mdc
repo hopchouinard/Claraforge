@@ -1,0 +1,32 @@
+---
+name: pr-hygiene-and-reviews
+description: Pull request and commit hygiene for content changes.
+tags: [reviews, prs, hygiene, commits]
+scope: repo
+match:
+  - "**/*"
+exclude:
+  - "**/.git/**"
+  - "**/.cursor/**"
+  - "**/node_modules/**"
+version: 1
+---
+
+## PR composition
+
+- Keep diffs small and focused.
+- Title should describe the concrete change (what/where), not intent alone.
+- Ensure all new links work and follow the docs style rules.
+
+## Review checklist
+
+- [ ] Correct folder and index updates (placement and navigation)
+- [ ] Style conformance (headings, spacing, fences, newline at EOF)
+- [ ] Relative links only; no bare URLs in prose
+- [ ] Persona voice used only where appropriate
+- [ ] Diagrams and examples render as expected
+
+## Commits
+
+- Prefer conventional, descriptive commit messages.
+- If template automation exists, use the repository’s template flow (see `ai-template-rendering` rules).
