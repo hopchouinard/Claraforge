@@ -1,7 +1,7 @@
 ---
 title: "The Law of Cognitive Allocation"
 description: "Where complexity should live: guidance for allocating tasks between humans, machines, and systems."
-type: philosophies
+type: principles
 tags: [allocation, complexity, philosophy, human-machine]
 ---
 
@@ -40,9 +40,7 @@ Complexity is not the enemy. It is fuel.
 ## Axioms
 
 > "Complexity doesn't vanish. It moves."
-
 > "Placed fuel is power."
-
 > "Memory is cheap for silicon, costly for neurons. Judgment is costly for silicon, natural for humans. Allocate wisely."
 
 ## Examples: human vs machine duties
@@ -59,6 +57,10 @@ Complexity is not the enemy. It is fuel.
 
 ## Cross-links and references
 
-See also: `PHIL-Quality-In-Quality-Out.md`, `PHIL-Raise-the-Floor-Not-Just-the-Ceiling.md`, and `why-it-works/META-WhyItWorks_LearningModel.md` for related framing and supporting meta-theory.
+See also: `PRINCIPLE-Quality-In-Quality-Out.md`, `PRINCIPLE-Raise-the-Floor-Not-Just-the-Ceiling.md`, and `why-it-works/META-WhyItWorks_LearningModel.md` for related framing and supporting meta-theory.
 
 ---
+
+---
+
+*File location: `principles/PRINCIPLE-Law-of-Cognitive-Allocation.md`*
