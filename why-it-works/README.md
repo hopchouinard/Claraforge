@@ -86,6 +86,80 @@ If the main repo is the product, this folder is the **product philosophy manual*
 - Dependency mapping and recommended sequencing for newcomers
 - Real-world triggers that signal when to deploy specific principles
 
+### 🎯 Core Principle Meta-Analysis
+
+**[Collaboration, Not Dictation](META-Collaboration-not-Dictation.md)** - *Why Partnership Beats Commands*
+
+- How collaboration transforms AI from passive tool to active thinking partner
+- The synergy between dialogue, context, and quality that produces breakthrough insights
+- Avoiding the pitfall of treating AI as a magic 8-ball or code monkey
+
+**[Context Is King](META-Context-Is-King.md)** - *The Mother Lode of Quality*
+
+- How context transforms AI from generic answer generator to true partner
+- The technical reality of why rich context leads to superior outputs
+- Preventing the cycle of vague questions leading to disappointing results
+
+**[Dialogue Over Documentation](META-Dialogue-Over-Documentation.md)** - *Living Knowledge That Sticks*
+
+- How dialogue creates knowledge that multiplies through human preference for conversation
+- The cognitive advantages of lively discussion over static text walls
+- Avoiding the trap of fossilized documentation that sits unused
+
+**[Idle Time Is Idea Time](META-Idle-Time-Is-Idea-Time.md)** - *Turning Wasted Minutes Into Creative Fuel*
+
+- How AI collaboration transforms idle moments into productive ideation sessions
+- The systematic capture and development of stream-of-consciousness insights
+- Preventing the loss of brilliant flashes that evaporate without proper capture
+
+**[The Law of Cognitive Allocation](META-Law-of-Cognitive-Allocation.md)** - *Where Complexity Should Live*
+
+- How strategic complexity placement creates leverage, clarity, and symbiosis
+- The systematic approach to allocating tasks between humans, machines, and AI
+- Avoiding cognitive hazards of misallocation and over-automation
+
+**[Ownership, Not Adoption](META-Ownership-Not-Adoption.md)** - *From Alien System to Digital Apprentice*
+
+- How AI becomes a reflection of user expertise rather than a replacement
+- The transformation from forced compliance to genuine partnership
+- Preventing resistance by making AI embody the user's exact workflow and style
+
+**[Politeness Is Technical](META-Politeness-is-Technical.md)** - *The Science of Respectful AI Interaction*
+
+- How politeness serves as a technical lever for high-quality AI responses
+- The vector space mechanics that connect respectful prompts to superior outputs
+- Avoiding the trap of vague, blunt requests that lead to mediocre results
+
+**[Prime Directive Doctrine](META-prime-directive-doctrine.md)** - *The Systematic Approach to AI-Human Collaboration*
+
+- How the doctrine minimizes human friction while maximizing AI utility
+- The precision bias and escalation loops that ensure reliable automation
+- Preventing the pitfalls of over-automation or under-automation
+
+**[Quality In, Quality Out](META-Quality-In-Quality-Out.md)** - *AI as a Mirror for Human Thinking*
+
+- How input quality directly determines output quality in AI systems
+- The technical reality of pattern matching and training data correlation
+- Avoiding the cycle of vague questions leading to disappointing responses
+
+**[Raise the Floor, Not Just the Ceiling](META-Raise-the-Floor-Not-Just-the-Ceiling.md)** - *Making Excellence the New Baseline*
+
+- How individual expertise becomes collective advantage through systematic sharing
+- The democratization of high-level performance through codified knowledge
+- Preventing the waste of repeated discovery and individual learning curves
+
+**[Show Don't Just Tell](META-Show-Dont-Just-Tell.md)** - *Examples Beat Explanations Every Time*
+
+- How concrete examples transform AI from generic tool to precision instrument
+- The pattern recognition that enables AI to mirror user quality and style
+- Avoiding the trap of abstract instructions that lead to mediocre outputs
+
+**[Thought Inheritance](META-Thought-Inheritance.md)** - *Creativity and Logic as Structured Thinking*
+
+- How creativity and logic are expressions of the same structured thinking process
+- The emergent structure that enables AI to handle both technical and creative challenges
+- Avoiding the artificial divide that limits AI capabilities and potential
+
 **[Second Brain Manifesto](META-SecondBrainManifesto.md)** - *Because One Brain Is So Last Century*
 
 - The vision of distributed cognition through AI partnership
@@ -120,23 +194,23 @@ If the main repo is the product, this folder is the **product philosophy manual*
 
 ### For Quick Orientation
 
-Start with **[Why This Is Not Just a Prompt Repo](META-WhyThisIsNotJustAPromptRepo.md)** to understand what makes Claraforge different, then check the **[Philosophy Map](META-PrincipleMap.md)** for navigation.
+Start with **[Why This Is Not Just a Prompt Repo](META-WhyThisIsNotJustAPromptRepo.md)** to understand what makes Claraforge different, then check the **[Philosophy Map](META-PrincipleMap.md)** for navigation. For deep dives into individual principles, explore the **Core Principle Meta-Analysis** section above.
 
 ### For Implementers
 
-Read **[AI as Collaborator, Not Tool](META-AIAsCollaboratorNotTool.md)** and **[From Chat to Code](META-FromChatToCode.md)** to understand the workflow, then dive into **[The Claraforge Approach](META-TheClaraforgeApproach.md)** for execution guidance.
+Read **[AI as Collaborator, Not Tool](META-AIAsCollaboratorNotTool.md)** and **[From Chat to Code](META-FromChatToCode.md)** to understand the workflow, then dive into **[The Claraforge Approach](META-TheClaraforgeApproach.md)** for execution guidance. Essential principle Meta files: **[Context Is King](META-Context-Is-King.md)**, **[Quality In, Quality Out](META-Quality-In-Quality-Out.md)**, and **[Show Don't Just Tell](META-Show-Dont-Just-Tell.md)**.
 
 ### For Contributors
 
-Essential reading: **[Forkable Thinking](META-ForkableThinking.md)**, **[Pattern Language & Context](META-PatternLanguageAndContext.md)**, and **[WhyItWorks Learning Model](META-WhyItWorks_LearningModel.md)**.
+Essential reading: **[Forkable Thinking](META-ForkableThinking.md)**, **[Pattern Language & Context](META-PatternLanguageAndContext.md)**, and **[WhyItWorks Learning Model](META-WhyItWorks_LearningModel.md)**. Key principle insights: **[Ownership, Not Adoption](META-Ownership-Not-Adoption.md)**, **[Raise the Floor, Not Just the Ceiling](META-Raise-the-Floor-Not-Just-the-Ceiling.md)**, and **[The Law of Cognitive Allocation](META-Law-of-Cognitive-Allocation.md)**.
 
 ### For Designers & Researchers
 
-**[Human Cognition Bridge](META-HumanCognitionBridge.md)**, **[How We Model Behavior](META-HowWeModelBehavior.md)**, and **[Intentional Design](META-IntentionalDesign.md)** reveal the psychological and architectural foundations.
+**[Human Cognition Bridge](META-HumanCognitionBridge.md)**, **[How We Model Behavior](META-HowWeModelBehavior.md)**, and **[Intentional Design](META-IntentionalDesign.md)** reveal the psychological and architectural foundations. Critical principle analysis: **[Thought Inheritance](META-Thought-Inheritance.md)**, **[Prime Directive Doctrine](META-prime-directive-doctrine.md)**, and **[Collaboration, Not Dictation](META-Collaboration-not-Dictation.md)**.
 
 ### For Skeptics
 
-**[Humor Is a Feature](META-HumorIsAFeature.md)** and **[Second Brain Manifesto](META-SecondBrainManifesto.md)** address common concerns about AI collaboration and justify our unconventional approaches.
+**[Humor Is a Feature](META-HumorIsAFeature.md)** and **[Second Brain Manifesto](META-SecondBrainManifesto.md)** address common concerns about AI collaboration and justify our unconventional approaches. Evidence-based principle analysis: **[Politeness Is Technical](META-Politeness-is-Technical.md)**, **[Dialogue Over Documentation](META-Dialogue-Over-Documentation.md)**, and **[Idle Time Is Idea Time](META-Idle-Time-Is-Idea-Time.md)**.
 
 ## 🧪 The Meta-Learning Laboratory
 
