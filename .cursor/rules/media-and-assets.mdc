@@ -1,0 +1,29 @@
+---
+name: media-and-assets
+description: Organization and linking rules for images, audio, video, and overviews.
+tags: [media, assets, images, audio, video]
+scope: repo
+match:
+  - "media/**"
+  - "**/*.md"
+  - "**/*.MD"
+version: 1
+---
+
+## Storage locations
+
+- Images → `media/img/`
+- Podcasts/audio → `media/podcasts/`
+- Videos → `media/videos/`
+- Video overviews (descriptions) → `media/video-overview/`
+
+## Linking rules
+
+- Always link media with relative paths.
+- Ensure referenced files exist and can preview on GitHub where supported.
+- When adding or removing media, update `media/README.MD` or `media/media-list.md` as appropriate.
+
+## Accessibility and context
+
+- Provide descriptive link text; include brief context near embedded media links.
+- Prefer lightweight previews (images, overview markdown) for heavy assets.

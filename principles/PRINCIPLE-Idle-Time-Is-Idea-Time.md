@@ -1,7 +1,7 @@
 ---
 title: "Idle Time Is Idea Time"
 Description: A core principle for working with AI effectively.
-type: philosophies
+type: principles
 tags: [AI, Ideation, Productivity, Brainstorming, Note-taking]
 youtube: [link to relevant video]
 podcast: [link to relevant podcast episode]
@@ -37,4 +37,4 @@ And remember, the next time you find yourself with a few minutes to spare, donâ€
 
 ---
 
-*File location: `philosophies/PHIL-Idle-Time-Is-Idea-Time.md`*
+*File location: `principles/PRINCIPLE-Idle-Time-Is-Idea-Time.md`*

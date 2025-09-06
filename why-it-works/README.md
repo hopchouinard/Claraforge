@@ -80,7 +80,7 @@ If the main repo is the product, this folder is the **product philosophy manual*
 
 ### 🧭 Philosophy & Navigation
 
-**[Philosophy Map](META-PhilosophyMap.md)** - *Your Star Chart for AI Interaction Principles*
+**[Philosophy Map](META-PrincipleMap.md)** - *Your Star Chart for AI Interaction Principles*
 
 - Visual clustering of the nine core philosophies by purpose
 - Dependency mapping and recommended sequencing for newcomers
@@ -120,7 +120,7 @@ If the main repo is the product, this folder is the **product philosophy manual*
 
 ### For Quick Orientation
 
-Start with **[Why This Is Not Just a Prompt Repo](META-WhyThisIsNotJustAPromptRepo.md)** to understand what makes Claraforge different, then check the **[Philosophy Map](META-PhilosophyMap.md)** for navigation.
+Start with **[Why This Is Not Just a Prompt Repo](META-WhyThisIsNotJustAPromptRepo.md)** to understand what makes Claraforge different, then check the **[Philosophy Map](META-PrincipleMap.md)** for navigation.
 
 ### For Implementers
 

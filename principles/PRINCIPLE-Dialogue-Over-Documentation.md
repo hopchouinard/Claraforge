@@ -1,7 +1,7 @@
 ---
 title: "Dialogue Over Documentation"
 Description: A core principle for working with AI effectively.
-type: philosophies
+type: principles
 tags: [AI, Dialogue, Knowledge Transfer, Onboarding, Communication]
 youtube: [link to relevant video]
 podcast: [link to relevant podcast episode]
@@ -39,4 +39,4 @@ The documentation stays, it's the source of truth, but the dialogue is where the
 
 ---
 
-*File location: `philosophies/PHIL-Dialogue-Over-Documentation.md`*
+*File location: `principles/PRINCIPLE-Dialogue-Over-Documentation.md`*

@@ -1,0 +1,36 @@
+---
+name: design-specs-from-chat-to-code
+description: Structure and quality bar for implementation handoffs in design-specs/.
+tags: [workflow, specs, delivery, acceptance-criteria]
+scope: repo
+match:
+  - "design-specs/**/*.md"
+  - "design-specs/*.md"
+version: 1
+---
+
+## Required sections (in order)
+
+- Context & Goal
+- Non-goals
+- Acceptance criteria
+- Artifacts (what to produce and where)
+- Open questions / risks
+
+## Writing standards
+
+- Use task-oriented, testable acceptance criteria (bulleted, unambiguous).
+- Link to relevant philosophies and prior decisions via relative paths.
+- Include diagrams or examples where helpful (`mermaid`, `text` for flows).
+
+## File naming
+
+- Use kebab-case slugs: `design-specs/<kebab-slug>.md`.
+- Keep filenames stable across iterations.
+
+## Handoff readiness checklist
+
+- [ ] All sections present and filled
+- [ ] All links are relative and render on GitHub
+- [ ] Acceptance criteria are testable and scoped
+- [ ] Any open risks have clear next steps or owners

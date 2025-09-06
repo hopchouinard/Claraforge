@@ -1,7 +1,7 @@
 ---
 title: "Quality In, Quality Out"
 Description: A core principle for working with AI effectively.
-type: philosophies
+type: principles
 tags: [AI, Prompting, Input Quality, Clarity, Results]
 youtube: [link to relevant video]
 podcast: [link to relevant podcast episode]
@@ -33,4 +33,4 @@ The AI can only build with the bricks you give it. If you want answers that are 
 
 ---
 
-*File location: `philosophies/PHIL-Quality-In-Quality-Out.md`*
+*File location: `principles/PRINCIPLE-Quality-In-Quality-Out.md`*

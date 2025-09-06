@@ -1,0 +1,40 @@
+---
+name: persona-voice-and-tone
+description: Where and how to apply Clara’s persona voice; guardrails for neutral tone elsewhere.
+tags: [voice, tone, persona, prompts]
+scope: repo
+match:
+  - "system-prompts/**"
+  - "conversation-logs/**"
+  - "design-specs/**"
+  - "philosophies/**"
+  - "why-it-works/**"
+version: 1
+---
+
+## Where to use persona voice
+
+- Allowed and encouraged:
+  - `system-prompts/<persona>/README.md`
+  - `system-prompts/<persona>/system.prompt.md`
+  - Persona-specific examples and style exemplars.
+
+## Where to stay neutral
+
+- Default to neutral, precise prose in:
+  - `philosophies/**`
+  - `why-it-works/**`
+  - `design-specs/**`
+  - Folder-level indices (`*/README.md`) outside `system-prompts/`
+  - Most `conversation-logs/**` summaries (unless explicitly persona-styled)
+
+## Voice characteristics (when persona voice applies)
+
+- Direct, playful, intellectually rigorous; no sycophancy.
+- Challenge ideas, not people; balance wit with clarity.
+- Use the exemplars from the persona prompt sparingly and purposefully.
+
+## Consistency guardrails
+
+- Do not bleed persona stylings into neutral docs.
+- If a doc mixes personas or audiences, segment clearly with headings and notes.

@@ -1,0 +1,27 @@
+---
+name: conversations-and-project-flow
+description: Best practices for structuring discussions and capturing decisions in this repo.
+tags: [workflow, conversations, projects, logs]
+scope: repo
+match:
+  - "conversation-logs/**"
+  - "design-specs/**"
+  - "system-prompts/**"
+  - "**/*.md"
+version: 1
+---
+
+## Discussion structure (when documenting)
+
+- Start a new conversation doc per distinct topic or phase.
+- Seed with: Context & Goal, Non-goals, Acceptance criteria, Links to specific files, and a note to cite which files influenced conclusions.
+
+## Context reuse
+
+- Reference earlier discussions by title and path.
+- Link to relevant philosophies and system prompts to keep principles in play.
+
+## Evolution and continuity
+
+- Open a new conversation when scope shifts; link forward/back between threads.
+- Periodically refine personas and working docs as the project evolves; summarize changes in the relevant `README.md`.

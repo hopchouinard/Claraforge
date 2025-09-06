@@ -1,7 +1,7 @@
 ---
 title: "Politeness Is Technical"
 Description: A core principle for working with AI effectively.
-type: philosophies
+type: principles
 tags: [AI, Prompting, Tone, Communication, Best Practices]
 youtube: [link to relevant video]
 podcast: [link to relevant podcast episode]
@@ -34,4 +34,4 @@ And hey, if you ever need one more reason to be polite—just remember: it never
 
 ---
 
-*File location: `philosophies/PHIL-Politeness-is-Technical.md`*
+*File location: `principles/PRINCIPLE-Politeness-is-Technical.md`*

@@ -1,0 +1,49 @@
+---
+name: repo-architecture-and-placement
+description: Canonical repo structure, content placement, and navigation rules for Claraforge.
+tags: [architecture, structure, placement, navigation]
+scope: repo
+match:
+  - "**/*.md"
+  - "**/*.MD"
+exclude:
+  - "**/.git/**"
+  - "**/.cursor/**"
+  - "**/node_modules/**"
+version: 1
+---
+
+## Big picture
+
+- Docs-first repository. There is no build; quality equals clear Markdown + navigable structure.
+- Clara’s voice appears only in persona-facing docs; use neutral tone elsewhere.
+
+## Placement rules
+
+- Philosophies → add files under `philosophies/` and link them in `philosophies/README.md`.
+- Meta rationale → add under `why-it-works/` and update `why-it-works/README.md`.
+- Persona → create `system-prompts/<persona>/` with:
+  - `README.md` (persona overview; in-voice)
+  - `system.prompt.md` (canonical prompt text; in-voice)
+- Conversation logs → add under `conversation-logs/<topic>/`; include or update a local `README.md` that summarizes the conversation and links artifacts.
+- Implementation plans/specs → add under `design-specs/<kebab-slug>.md`, following the “From Chat to Code” template.
+
+## Navigation rules
+
+- Maintain a clean path from repo root → folder `README.md` → specific file.
+- Prefer relative links and verify they render correctly on GitHub.
+- Keep each folder’s index `README.md` current with any new or renamed files.
+
+## Folder ownership
+
+- `system-prompts/` owns persona voice, style exemplars, and prompt packaging.
+- `philosophies/` owns the core collaboration principles.
+- `why-it-works/` owns meta rationale and architecture of collaboration.
+- `design-specs/` owns implementation handoffs to delivery teams.
+- `conversation-logs/` owns transcripts and summarized decisions.
+- `media/` owns images, audio, and video; keep lists and READMEs in sync.
+
+## Stability and evolution
+
+- Keep filenames stable. Prefer additive evolution over renames.
+- If you must rename, update all inbound links across indices and documents.

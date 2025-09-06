@@ -1,7 +1,7 @@
 ---
 title: "Context Is King"
 Description: A core principle for working with AI effectively.
-type: philosophies
+type: principles
 tags: [AI, Context, Prompting, Quality, Best Practices]
 youtube: [link to relevant video]
 podcast: [link to relevant podcast episode]
@@ -49,4 +49,4 @@ And remember, the next time you’re tempted to skimp on context, think of it li
 
 ---
 
-*File location: `philosophies/PHIL-Context-Is-King.md`*
+*File location: `principles/PRINCIPLE-Context-Is-King.md`*

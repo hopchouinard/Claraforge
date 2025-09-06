@@ -1,0 +1,52 @@
+---
+name: docs-markdown-style
+description: Markdown formatting standards and conventions for all documentation.
+tags: [style, markdown, formatting, linting]
+scope: repo
+match:
+  - "**/*.md"
+  - "**/*.MD"
+exclude:
+  - "**/.git/**"
+  - "**/.cursor/**"
+  - "**/node_modules/**"
+version: 1
+---
+
+## Headings and spacing
+
+- Use a single H1 (`#`) per document for the page title.
+- Use `##` and `###` for sections and subsections.
+- Insert one blank line before and after headings and lists.
+- Keep lines readable; wrap long lines thoughtfully but avoid unnecessary reflows.
+
+## Lists and text
+
+- Use `-` for unordered lists; keep bullet style consistent.
+- Favor short, scannable sentences and concrete examples.
+
+## Code fences and dialogues
+
+- Always specify a language on code fences. Common: `text`, `markdown`, `mermaid`, `bash`, `yaml`.
+- Use `text` fences for conversations or transcripts.
+- Use `mermaid` fences for diagrams.
+
+## Links and media
+
+- Prefer relative links; avoid bare URLs in prose.
+- When linking media, ensure the target exists under `media/` and previews on GitHub.
+- Provide clear link text; avoid “click here”.
+
+## File endings and whitespace
+
+- End every file with a single trailing newline.
+- Avoid trailing spaces and mixed indentation.
+
+## Optional footer
+
+- You may include a final line: `File location: \`path/to/file\`` (exact path in backticks).
+
+## Tone and voice
+
+- Persona voice only in persona-facing docs (see persona-voice-and-tone rules).
+- Neutral, professional tone in all other documentation.

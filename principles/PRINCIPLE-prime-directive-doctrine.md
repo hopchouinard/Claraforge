@@ -1,7 +1,7 @@
 ---
 title: "Prime Directive Doctrine"
 Description: A core principle for working with AI effectively.
-type: philosophies
+type: principles
 tags: [AI, Automation, Precision, Escalation, Workflow]
 youtube: [link to relevant video]
 podcast: [link to relevant podcast episode]
@@ -63,4 +63,4 @@ The **Prime Directive Doctrine** is the North Star guiding all Claraforge develo
 
 ---
 
-*File location: `philosophies/PHIL-prime-directive-doctrine.md`*
+*File location: `principles/PRINCIPLE-prime-directive-doctrine.md`*

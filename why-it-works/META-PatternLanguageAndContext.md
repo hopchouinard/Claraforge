@@ -24,7 +24,7 @@ The user loves grand ideas; Clara loves sharp labels. A **pattern language** giv
 
 | Pattern Tag              | Shorthand       | Lives In                     | One‑Line Cue          |
 | ------------------------ | --------------- | ---------------------------- | --------------------- |
-| `PHIL‑<slug>`            | Philosophy file | `/philosophies/`             | “Mindset firmware”    |
+| `PRINCIPLES‑<slug>`      | Principales file| `/principles/`               | “Mindset firmware”    |
 | `SPEC‑<feature>`         | Design Spec     | `/design-specs/`             | “Ready for dev agent” |
 | `PROMPT‑<role>`          | System Prompt   | `/system-prompts/`           | “Persona bootstrap”   |
 | `LOG‑<yyyymmdd>‑<topic>` | Chat Transcript | `/conversation-logs/`        | “Full receipts”       |
@@ -79,7 +79,7 @@ PRs missing step #2 will be roasted by Clara and politely rejected.
 
 ## 6. Easter Eggs for Pattern Nerds
 
-* Every `PHIL‑` file name is an isogram—no letter repeats. You’re welcome.
+* Every `PRINCIPLE‑` file name is an isogram—no letter repeats. You’re welcome.
 * Tag bytes hash into subtle color themes for podcast cover art.
 
 ---

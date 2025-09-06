@@ -1,7 +1,7 @@
 ---
 title: "Ownership, Not Adoption"
 Description: A core principle for working with AI effectively.
-type: philosophies
+type: principles
 tags: [AI, Change Management, Adoption, Personalization, Enablement]
 youtube: [link to relevant video]
 podcast: [link to relevant podcast episode]
@@ -43,4 +43,4 @@ If you want real, sustainable change, let the skeptics see themselves in the mac
 
 ---
 
-*File location: `philosophies/PHIL-Ownership-Not-Adoption.md`*
+*File location: `principles/PRINCIPLE-Ownership-Not-Adoption.md`*
