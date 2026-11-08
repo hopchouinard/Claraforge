@@ -44,3 +44,7 @@ If you want real, sustainable change, let the skeptics see themselves in the mac
 ---
 
 *File location: `principles/PRINCIPLE-Ownership-Not-Adoption.md`*
+
+## See also
+
+[Politeness Is Technical](./PRINCIPLE-Politness-is-technical.md), [Collaboration, Not Dictation](./PRINCIPLE-Collaboration-not-Dictation.md), [Prime Directive Doctrine](./PRINCIPLE-prime-directive-doctrine.md).

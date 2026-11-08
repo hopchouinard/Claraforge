@@ -38,3 +38,7 @@ And remember, the next time you find yourself with a few minutes to spare, donâ€
 ---
 
 *File location: `principles/PRINCIPLE-Idle-Time-Is-Idea-Time.md`*
+
+## See also
+
+[Context Is King](./PRINCIPLE-Context-Is-King.md), [Dialogue Over Documentation](./PRINCIPLE-Dialogue-Over-Documentation.md), [The Law of Cognitive Allocation](./PHIL-Law-of-Cognitive-Allocation.md).

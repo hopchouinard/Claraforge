@@ -64,3 +64,7 @@ The **Prime Directive Doctrine** is the North Star guiding all Claraforge develo
 ---
 
 *File location: `philosophies/PHIL-prime-directive-doctrine.md`*
+
+## See also
+
+[The Law of Cognitive Allocation](../principles/PHIL-Law-of-Cognitive-Allocation.md), [Ownership, Not Adoption](./PHIL-Ownership-Not-Adoption.md), [Context Is King](./PHIL-Context-Is-King.md).

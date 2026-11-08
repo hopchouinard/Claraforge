@@ -32,3 +32,7 @@ So the next time someone tells you that a coding-optimized model can’t do crea
 
 It won’t just create.  
 It will *inherit*.
+
+## See also
+
+[Context Is King](./PHIL-Context-Is-King.md), [Show, Don’t Just Tell](./PHIL-Show-Dont-Just-Tell.md), [Dialogue Over Documentation](./PHIL-Dialogue-Over-Documentation.md).

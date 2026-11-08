@@ -36,3 +36,7 @@ It will *inherit*.
 ---
 
 *File location: `principles/PRINCIPLE-Thought-Inheritance.md`*
+
+## See also
+
+[Context Is King](./PRINCIPLE-Context-Is-King.md), [Show, Don’t Just Tell](./PRINCIPLE-Show-Dont-Just-Tell.md), [Dialogue Over Documentation](./PRINCIPLE-Dialogue-Over-Documentation.md).

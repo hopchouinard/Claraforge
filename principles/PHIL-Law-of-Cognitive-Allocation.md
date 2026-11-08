@@ -59,6 +59,8 @@ Complexity is not the enemy. It is fuel.
 
 ## Cross-links and references
 
-See also: `PHIL-Quality-In-Quality-Out.md`, `PHIL-Raise-the-Floor-Not-Just-the-Ceiling.md`, and `why-it-works/META-WhyItWorks_LearningModel.md` for related framing and supporting meta-theory.
+**See also:** [Prime Directive Doctrine](./PRINCIPLE-prime-directive-doctrine.md), [Quality In, Quality Out](./PRINCIPLE-Quality-In-Quality-Out.md), [Raise the Floor, Not Just the Ceiling](./PRINCIPLE-Raise-the-Floor-Not-Just-the-Ceiling.md).
+
+Supporting meta-theory: [Learning Model](../why-it-works/META-WhyItWorks_LearningModel.md).
 
 ---

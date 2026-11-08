@@ -28,3 +28,7 @@ Stop dictating. Start conversing. Treat the AI as your thinking partner, and you
 ---
 
 *File location: `philosophies/PHIL-Collaboration-not-Dictation.md`*
+
+## See also
+
+[Politeness Is Technical](./PHIL-Politness-is-technical.md), [Ownership, Not Adoption](./PHIL-Ownership-Not-Adoption.md), [Dialogue Over Documentation](./PHIL-Dialogue-Over-Documentation.md).

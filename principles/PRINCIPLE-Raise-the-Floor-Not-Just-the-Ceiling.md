@@ -42,3 +42,7 @@ And remember, the next time you achieve something great, don’t just celebrate 
 ---
 
 *File location: `principles/PRINCIPLE-Raise-the-Floor-Not-Just-the-Ceiling.md`*
+
+## See also
+
+[Show, Don’t Just Tell](./PRINCIPLE-Show-Dont-Just-Tell.md), [Dialogue Over Documentation](./PRINCIPLE-Dialogue-Over-Documentation.md), [The Law of Cognitive Allocation](./PHIL-Law-of-Cognitive-Allocation.md).

@@ -50,3 +50,7 @@ And remember, the next time you’re tempted to skimp on context, think of it li
 ---
 
 *File location: `philosophies/PHIL-Context-Is-King.md`*
+
+## See also
+
+[Quality In, Quality Out](./PHIL-Quality-In-Quality-Out.md), [Show, Don’t Just Tell](./PHIL-Show-Dont-Just-Tell.md), [Idle Time Is Idea Time](./PHIL-Idle-Time-Is-Idea-Time.md).

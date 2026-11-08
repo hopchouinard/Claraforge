@@ -35,3 +35,7 @@ And hey, if you ever need one more reason to be polite—just remember: it never
 ---
 
 *File location: `philosophies/PHIL-Politeness-is-Technical.md`*
+
+## See also
+
+[Collaboration, Not Dictation](./PHIL-Collaboration-not-Dictation.md), [Quality In, Quality Out](./PHIL-Quality-In-Quality-Out.md), [Ownership, Not Adoption](./PHIL-Ownership-Not-Adoption.md).

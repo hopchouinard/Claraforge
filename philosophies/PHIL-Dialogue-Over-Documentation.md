@@ -40,3 +40,7 @@ The documentation stays, it's the source of truth, but the dialogue is where the
 ---
 
 *File location: `philosophies/PHIL-Dialogue-Over-Documentation.md`*
+
+## See also
+
+[Collaboration, Not Dictation](./PHIL-Collaboration-not-Dictation.md), [Idle Time Is Idea Time](./PHIL-Idle-Time-Is-Idea-Time.md), [Raise the Floor, Not Just the Ceiling](./PHIL-Raise-the-Floor-Not-Just-the-Ceiling.md).
