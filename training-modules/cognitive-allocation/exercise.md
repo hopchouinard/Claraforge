@@ -100,10 +100,15 @@ You're working with an AI on a technical problem, but you need to provide a lot 
 
 ### Scoring Your Assessment
 
-- **Mostly A's:** You're in hammer thinking mode—focusing on tools over strategy
-- **Mostly B's:** You're in research mode—good intentions but potentially overthinking
-- **Mostly C's:** You're in allocation thinking mode—focusing on resource management
-- **Mostly D's:** You're in delegation/avoidance mode—good for some situations, but may be avoiding necessary cognitive work
+Compare each response with the scenario-specific explanations in the [answer key](answer-key.md). The preferred responses are:
+
+- **Scenario 1: B** — Break the project into smaller tasks and allocate time.
+- **Scenario 2: C** — Give the AI richer context and examples.
+- **Scenario 3: D** — Defer the decision until rested, when the deadline allows.
+- **Scenario 4: B** — Audit the tools and remove those you do not use.
+- **Scenario 5: C** — Structure the information into manageable chunks.
+
+Answer letters do not represent a consistent thinking style across scenarios. Use the reasoning in the answer key to reflect on your choices and their trade-offs, rather than tallying letters to assign yourself a thinking mode.
 
 ---
 
