@@ -34,3 +34,7 @@ The AI can only build with the bricks you give it. If you want answers that are 
 ---
 
 *File location: `principles/PRINCIPLE-Quality-In-Quality-Out.md`*
+
+## See also
+
+[Context Is King](./PRINCIPLE-Context-Is-King.md), [Show, Don’t Just Tell](./PRINCIPLE-Show-Dont-Just-Tell.md), [The Law of Cognitive Allocation](./PHIL-Law-of-Cognitive-Allocation.md).

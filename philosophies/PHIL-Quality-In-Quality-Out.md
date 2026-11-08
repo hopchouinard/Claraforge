@@ -34,3 +34,7 @@ The AI can only build with the bricks you give it. If you want answers that are 
 ---
 
 *File location: `philosophies/PHIL-Quality-In-Quality-Out.md`*
+
+## See also
+
+[Context Is King](./PHIL-Context-Is-King.md), [Show, Don’t Just Tell](./PHIL-Show-Dont-Just-Tell.md), [The Law of Cognitive Allocation](../principles/PHIL-Law-of-Cognitive-Allocation.md).

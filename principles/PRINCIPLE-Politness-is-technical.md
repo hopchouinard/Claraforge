@@ -35,3 +35,7 @@ And hey, if you ever need one more reason to be polite—just remember: it never
 ---
 
 *File location: `principles/PRINCIPLE-Politeness-is-Technical.md`*
+
+## See also
+
+[Collaboration, Not Dictation](./PRINCIPLE-Collaboration-not-Dictation.md), [Quality In, Quality Out](./PRINCIPLE-Quality-In-Quality-Out.md), [Ownership, Not Adoption](./PRINCIPLE-Ownership-Not-Adoption.md).

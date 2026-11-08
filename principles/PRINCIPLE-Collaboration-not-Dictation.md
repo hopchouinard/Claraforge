@@ -28,3 +28,7 @@ Stop dictating. Start conversing. Treat the AI as your thinking partner, and you
 ---
 
 *File location: `principles/PRINCIPLE-Collaboration-not-Dictation.md`*
+
+## See also
+
+[Politeness Is Technical](./PRINCIPLE-Politness-is-technical.md), [Ownership, Not Adoption](./PRINCIPLE-Ownership-Not-Adoption.md), [Dialogue Over Documentation](./PRINCIPLE-Dialogue-Over-Documentation.md).

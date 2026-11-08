@@ -305,3 +305,7 @@ Join us in building this future. Fork Claraforge, adapt it to your needs, share 
 
 *File location: `README.md`*
 
+
+## Principle navigation and teaching lines
+
+Browse the [philosophy index](philosophies/README.md) for related-principle links and a relationship map, or the [Axioms & Punchlines inventory](docs/style/axioms.md) for sourced teaching lines and clearly labeled audience adaptations.

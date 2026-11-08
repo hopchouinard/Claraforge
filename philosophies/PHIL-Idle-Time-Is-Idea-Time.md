@@ -38,3 +38,7 @@ And remember, the next time you find yourself with a few minutes to spare, donâ€
 ---
 
 *File location: `philosophies/PHIL-Idle-Time-Is-Idea-Time.md`*
+
+## See also
+
+[Context Is King](./PHIL-Context-Is-King.md), [Dialogue Over Documentation](./PHIL-Dialogue-Over-Documentation.md), [The Law of Cognitive Allocation](../principles/PHIL-Law-of-Cognitive-Allocation.md).

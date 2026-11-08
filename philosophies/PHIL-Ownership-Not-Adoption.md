@@ -44,3 +44,7 @@ If you want real, sustainable change, let the skeptics see themselves in the mac
 ---
 
 *File location: `philosophies/PHIL-Ownership-Not-Adoption.md`*
+
+## See also
+
+[Politeness Is Technical](./PHIL-Politness-is-technical.md), [Collaboration, Not Dictation](./PHIL-Collaboration-not-Dictation.md), [Prime Directive Doctrine](./PHIL-prime-directive-doctrine.md).

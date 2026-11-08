@@ -40,3 +40,7 @@ The documentation stays, it's the source of truth, but the dialogue is where the
 ---
 
 *File location: `principles/PRINCIPLE-Dialogue-Over-Documentation.md`*
+
+## See also
+
+[Collaboration, Not Dictation](./PRINCIPLE-Collaboration-not-Dictation.md), [Idle Time Is Idea Time](./PRINCIPLE-Idle-Time-Is-Idea-Time.md), [Raise the Floor, Not Just the Ceiling](./PRINCIPLE-Raise-the-Floor-Not-Just-the-Ceiling.md).
